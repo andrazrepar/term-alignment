@@ -1,0 +1,3721 @@
+ID;SRC;TAR
+100;haldusorgan;административный орган
+10002;arvepidamine;бухгалтерский учет
+10003;loomade elu;жизнь животных
+10008;tarbekaubad;потребительский продукт
+1001;sild;мост
+10017;müra mõju tervisele;воздействие шума на здоровье
+10018;inimese keha;человеческое тело
+10019;inimteadus;науки о человеке
+10026;õigustoiming;юридический акт
+10031;meteoroloogiline uurimistöö;метеорологические исследования
+10032;loodusmaistukaitse;охрана природных зон
+10034;loodusohutõrje;снижение природных рисков
+10039;füüsikaline keemia;физическая химия
+10040;reostuse füüsikaline mõõtmine;физическое измерение уровня загрязнения
+10043;taimestik;жизнь растений
+10044;taimesaaduste toodang;заводское производство
+10053;riski ohjamine;управление риском
+10054;ohutussüsteem;система безопасности
+10055;seismotehnika;сейсмоустойчивое строительство
+10057;sotsiaalteadus;общественная наука
+10058;pinnaveemajandus;управление открытыми водоемами
+10064;looduselustiku kaitse;защита дикой природы
+10066;vanalinn;исторический центр
+10068;müüritis;каменная кладка
+1007;broom;бром
+10071;liivaleede;песчаная отмель
+10073;loomaliik;животные виды
+10074;taimeliik;растительные виды
+10076;amet;профессия
+10078;rahvakomme;народная традиция
+10084;õigusharu;отрасль права
+10085;kohtusüsteem;судебная система
+10087;reoainete keemiline määramine;химическое измерение уровня загрязнения
+10088;mõõteriist;измерительный инструмент
+10092;linnamüra;городской шум
+10102;loodusoht;природный риск
+10103;loodusohuanalüüs;анализ природного риска
+10104;suurrisk;высокий уровень риска
+10106;päästesüsteem;система спасения
+10107;kriisijuhtimine;кризисное управление
+10120;maksustamissüsteem;налоговая система
+10126;keskkonnakontseptsioon;экологическая концепция
+10128;metsaökoloogia;экология лесов
+10129;teaduslik ökoloogia;экология как наука
+10130;linnaökoloogia;городская экология
+10131;ökopiirkond;экозона
+10135;paleoökoloogia;палеоэкология
+10136;bioloogiline pärand;биологическое наследие
+1014;haudumine;высиживание яиц
+10142;abajas;пещера
+10143;kanjon;каньон
+10146;amfiteaterorg;цирк
+10149;vallrand;песчаная коса
+1015;oja;ручей
+10152;jõesopp;небольшой залив
+10160;korallrahulaguun;лагуна кораллового рифа
+10161;jõesäng;русло реки
+10166;füüsiline keskkond;физическая среда
+10170;alluviaaltasandik;аллювиальная равнина
+10190;tundlik loodusala;экологически нестабильная природная зона
+10191;keskkonnaanalüüs;экологический анализ
+10194;vesikeskkond;водная среда
+10197;tundlik keskkond;неустойчивая среда
+10198;maismaakeskkond;природная среда суши
+10199;merelooduspark;морской парк
+1020;võsa;кустарниковые заросли
+10200;piirkondlik looduspark;региональный природный парк
+10202;riiklik bioloogiline kaitseala;государственный биологический заповедник
+10203;bioloogiline metsakaitseala;лесной биологический заповедник
+10208;usalduskaitseala;частный природный заповедник
+10210;loodusreservaat;центральная часть природного парка
+10212;merekaitseala;охраняемая морская зона
+10214;kaitseala puhverala;периферийная часть природного заповедника
+10215;teetrasside valik;упорядочение
+10225;prantsuse park;французский сад
+10228;inglise park;английский сад
+10229;terrassaed;террасовый сад
+10233;terrassmaastik;террасированный ландшафт
+10236;mäestikukaitse;охрана гор
+10238;rannikukaitse;охрана прибрежных районов
+1025;eelarve;бюджет
+10251;linnaökoloogia esitlusmudel;графическое изображение городской экологии
+10255;keskkonnahoidlik kodakondsus;экологически ответственная гражданская позиция
+10256;tervikjuhtimine;интегрированный менеджмент
+10260;sponsor;спонсорство
+1029;ehitis;здание
+103;halduspädevus;компетентность административного персонала
+10305;siirdekala;мигрирующая рыба
+1033;tarielement;строительный элемент
+10381;kaslane;кошачьи
+1039;ehitustööstus;строительная индустрия
+1041;ehitusmaa;земля под строительство
+1042;ehitusmaterjal;строительный материал
+10421;mereimetaja;морское млекопитающее
+1044;ehitusmaterjalitööstus;промышленность стройматериалов
+10444;lambad;овечьи
+1046;ehituse planeerimine;планирование строительства
+10496;pesitsusala;район гнездования
+10512;loomade ränne;перемещение животных
+1052;ehitusplats;строительная площадка
+10523;looma elupiirkond;природная среда обитания животных
+10535;pesitsemine;гнездование
+10539;loomakooslus;популяция животных
+1054;ehitusplatsi ettevalmistamine;подготовка строительной площадки
+10548;loomade paljunemine;репродукция животных
+10554;ellujäämine;выживание
+10568;lehtpuu;широколиственное дерево
+10574;vetikaaas;водоросли
+10575;makrofüüt;макрофит
+1058;ehitustehnoloogia;строительная технология
+10593;kaldataimestik;береговая растительность
+10605;kastan;каштан
+1061;kuivendussüsteem;система дренажа
+10626;taimkatte kõrgusvöönd;зональная растительность
+1063;tehiskeskkond;созданная среда
+1064;ehitis;строение
+10646;sordikollektsioon;коллекция видов
+1065;täisehitatud ala;застроенная территория
+10651;loomakaitseala;заповедник животных
+10652;botaaniline kaitseala;ботанический заповедник
+10666;pärandloomastik;наследие животного мира
+10667;pärandtaimestik;наследие растительного мира
+1067;sibullillekasvatus;культивация луковиц
+10670;loomakaitse;защита животных
+10671;loomaliikide reintroduktsioon;повторное заселение видов животных
+10672;taimeliikide reintroduktsioon;повторное заселение видов растений
+10683;kohalik metsastamine;местное облесение
+10685;tuuleheide;бурелом
+10692;metsakasutus;эксплуатация лесных ресурсов
+10693;mägimets;горный лес
+10695;mediterraanne mets;средиземноморский лес
+10696;eramets;частный лес
+10699;makja;маквис
+107;halduspädevus;административная юрисдикция
+10703;kuivmuru;засушливая земля
+10704;taimla;питомник
+10706;metsakaitse;защита лесов
+10707;looduslik taastumine;естественная регенерация
+10708;vaigutaim;смолосодержащее растение
+10711;keskmets;выращивание подлеска
+10721;mäng;игра
+10744;koorikloomakasvatus;разведение моллюсков
+10753;austrikasvatus;разведение устриц
+10758;töönduspüük;промышленная рыбная ловля
+10760;riiklik kalavesi;национальный рыбный заказник
+10773;võistluseksam;конкурсный отбор
+10778;täiendusõpe;непрерывное образование
+10780;algväljaõpe;начальное образование
+108;haldusõigus;административное право
+1082;buss;автобус
+10833;riigi funktsioon;общественная функция
+10837;töökorraldus;организация работы
+10851;üldkasutatav rajatis;общественное сооружение
+10860;jalgrattatee;велосипедная дорожка
+10861;suusarada;лыжня
+10884;turismimarsruut;туристический маршрут
+10890;keskkonnamuuseum;экомузей
+10892;üldsuse osavõtt;участие общественности
+10893;turistikülastatavus;участие туристов
+10904;üldsus;общественность
+10905;rada;путь
+10906;rannarada;пешеходная тропа вдоль побережья
+10907;haridustee;учебная тропа
+10909;mereäärne suvituskoht;морской курорт
+1091;liblikas;бабочка
+10910;mäestikupuhkeala;горный курорт
+10911;talispordikeskus;лыжный курорт
+10914;turismiühik;туристический объект
+10915;maastur;внедорожник
+10918;asustustihedus;плотность населения
+10919;noor;молодежь
+1092;nööppatarei;элемент питания
+10922;tööjõuline elanikkond;экономически активное население
+10925;ajajaotus;распределение времени
+1093;kaaspüük;сопутствующий улов
+10931;kaubad ja teenused;товары и услуги
+10932;ajabilanss;временной ресурс
+10933;elukeskkond;жизненная среда
+10935;toote olelustsükkel;цикл жизни продукта
+10938;kvaliteedisertifitseerimine;сертификация качества
+10939;elustandard;стандарт жизни
+1094;kõrvalsaadus;сопутствующий продукт
+10940;pakkumine ja nõudmine;спрос и предложение
+10959;ökoloogiline ebavõrdsus;экологическое неравенство
+10960;sotsiaalne ebavõrdsus;социальное неравенство
+10971;sotsiaalpsühholoogia;социальная психология
+10972;sotsiaalne esindatus;социальные ориентиры
+10976;loodushoolivus;любовь к природе
+10977;sotsioökonoomika;социоэкономика
+1098;kaabel;кабель
+10980;juurdepääsuõigus haldusdokumentidele;доступ к административным документам
+10981;haldusakt;действие администрации
+10985;kohalik omavalitsus;правительство территории
+10986;otsustussabi;поддержка процесса принятия решений
+10988;ministri kompetents;компетенция министра
+10991;kodanik;гражданин
+10992;kohalik omavalitsus;местное правительство
+11;abiootiline tegur;абиотический фактор
+1100;kaadmium;кадмий
+11007;haldusmeetmete põhjendamine;мотивы для административных действий
+1101;kaadmiumsaastus;загрязнение кадмием
+11016;majanduskava;экономический план
+1103;tseesium;цезий
+11030;toetusraha;финансовая помощь
+11031;rahvusvaheline abi;международная помощь
+11032;riigi abi;государственная помощь
+11035;analüütiline konto;приложения к бухгалтерскому отчету
+11038;majapidamiskulud;расходы семейного бюджета
+11039;riiklikud kulutused;государственные расходы
+11043;interventsioonifond;фонд непредвиденных расходов
+11045;Euroopa Valuutafond;Европейский валютный фонд
+11046;Rahvusvaheline Valuutafond;Международный валютный фонд
+11050;sisemajanduse kogutoodang;валовый внутренний продукт
+11051;erakordne maks;исключительный налог
+11055;protsessianalüüs;анализ процессов
+11057;audit;аудит
+11061;looduspärandi hindamine;оценка природного наследия
+11063;vee hind;стоимость водоснабжения
+11065;mahekaubandus;экологическая торговля
+11069;isalik juhtimine;популизм
+11082;veehinna määramine;установление цен на воду
+11087;keskkonnateooria;теория окружающей среды
+11089;kaubandustegevus;торговая деятельность
+11095;kohalik areng;развитие регионов
+111;halduskohtumenetlus;административная процедура
+11100;vabakaubandus;свободная торговля
+11103;arengumaa;наименее развитая страна
+1111;kaltsium;кальций
+11116;tihedus;плотность
+11118;ruumiline jaotus;пространственное распределение
+11119;majandusandmed;экономические данные
+1112;kaltsiumisisaldus;содержание кальция
+11124;indeks;перечень
+11125;rahvaloendus;перепись населения
+11127;statistiline rida;статистическая подборка
+11128;arvamusuuring;опрос мнения
+1113;arvutusmeetod;метод калькуляции
+11133;aastajalised muutused;сезонные изменения
+11134;teadusnõukogu;научный комитет
+11135;teadusvaidlus;научный спор
+1114;kaliibrimine;калибровка
+11146;rakendusuuring;прикладное исследование
+11148;teaduslik uurimistöö;научное исследование
+11152;agronoomia;агрономия
+11153;agroökosüsteem;агросистема
+11159;maaelu arendamine;развитие сельских областей
+11165;hüdromelioratsioon;мелиорация
+11170;talupidamistehnika;сельскохозяйственные методы
+11186;keemiline taimekaitse;обработка сельскохозяйственных культур химикатами
+11187;taimestikpuhastus;фитосанитарная обработка
+11192;linnukasvatus;птицеводство
+11198;aretusmeetod;методы животноводства
+112;haldussanktsioon;административная санкция
+11201;mineraalne;минеральная добавка
+11204;kuivendamine;осушение
+11207;kriit;мел
+11209;lämmastikväetis;азотное удобрение
+1121;telkimine;кемпинг
+11211;fosfaatväetis;фосфорное удобрение
+11212;kaaliumväetis;калийное удобрение
+11214;pinnaspuhastus;естественная очистка почвы
+11224;mulla leostumine;выщелачивание почвы
+11226;mineraalaine;минеральное вещество
+11227;orgaaniline aine;органическое вещество
+1123;laagrikoht;площадка для кемпинга
+11231;kuivendussüsteem;водосборная система
+11232;niisutussüsteem;ирригационная система
+11233;mulla soolsus;соленость почвы
+11237;mäestikumajandus;управление горными районами
+11244;turismikorraldus;управление туристической деятельностью
+11246;metsaettevõte;предприятие лесного хозяйства
+11248;seadmestuskava;план установки оборудования
+11259;lähenemine;подход
+1126;kanal;канал
+11269;raudteejaam;железнодорожная станция
+11270;bussijaam;автобусная остановка
+11272;masinatehas;инженерная работа
+11276;raudteevõrk;сеть железных дорог
+11277;teedevõrk;сеть автомобильных дорог
+11294;kaubalaevandus;торговое мореплавание
+11296;segaveod;комбинированные перевозки
+11307;linnakogukond;городское сообщество
+11308;linnaehitusdokument;документ городского развития
+11309;äärelinn;пригородная территория
+11321;maakasutuskava;план использования земли
+11322;asulate planeerimine ja ehitamine;городское планирование и развитие
+11323;maakasutussuhe;режим использования земли
+1133;vähioht;риск онкологического заболевания
+11332;uus linn;новый город
+1134;koerlane;псовый
+11344;maaarhitektuur;сельская архитектура
+11345;rahvaarhitektuur;традиционная архитектура
+11355;ehitiste lammutamine;снос зданий
+11359;munitsipaaltehnika;строительство городских сооружений
+11375;ehitiste restaureerimine;реконструкция зданий
+11427;õiguslikku tähendust omav avaldus;торжественная клятва
+11429;kvaliteedistandard;стандарт качества
+11430;Euroopa standard;европейский стандарт
+11433;tehnoeeskiri;техническое руководство
+11466;kodeerimine;кодификация
+11468;doktriin;доктрина
+11477;loomaõigused;права животных
+11478;tulevaste põlvede õigused;права последующих поколений
+11479;kodanikuõigused;гражданские права
+1148;auto;автомобиль
+11489;teatis;извещение
+11490;ringkiri;циркулярное письмо
+11493;Euroopa Ühenduse määrus;решение Сообщества
+11497;halduskoolitus;административная подготовка
+11498;tehnikaõpe;техническое обучение
+11499;õigus;право
+11502;jahiluba;лицензия на охоту
+11504;ehitusluba;разрешение на строительство
+11506;kalapüügiluba;лицензия на рыбную ловлю
+11508;seaduseelnõu;проект закона
+11514;reguleerimine;регулирование
+11517;direktiivide ülevõtmine;транспозиция директивы
+11521;kontsessioon;концессия
+11522;avalik arutelu;общественная дискуссия
+11523;avalikuks kasutamiseks määramine;объявление предприятием общественного назначения
+11526;riigile kuuluv mereala;государственное морское судоходство
+11527;juurdepääsuõigus;право доступа
+11531;avalik arupärimine;общественный запрос
+11532;delegeeritud juhtimine;делегированное управление
+11535;riigikontroll;государственный контроль
+11536;servituut;сервитут
+11540;kuritegu;преступление
+11548;politseivõim;право осуществлять охрану порядка
+11549;kriminaalmenetlus;процедура уголовного права
+11556;kohtuotsus;приговор
+11559;konflikt;конфликт
+11563;kohtuasi;судебный процесс
+11568;halduskohus;административный суд
+11571;Euroopa Kohus;Суд Европейского Союза
+11583;õigus;правосудие
+1159;süsivesik;углевод
+11594;kohus;суд
+1160;süsinik;углерод
+11611;rendileping;аренда
+11612;sertifitseerimine;сертификация
+11618;kohtuniku kinnitus;признание действительным
+1162;karbonaat;карбонат
+11623;ostueesõigus;преимущественное право покупки
+11624;igamine;право давности
+11627;repressioon;репрессия
+1164;süsinikuringe;круговорот углерода
+11641;hajureostus;загрязнение из различных источников
+11642;olmereostus;загрязнение бытовыми отходами
+11644;orgaaniline reostus;органическое загрязнение
+11648;jõkkeheide;сброс отходов в реку
+11649;kõrvaldamine maa alla;захоронение отходов в грунт
+11651;linnareoaine;городское загрязняющее вещество
+11671;ülihappesus;высокий уровень кислотности
+11675;biosaastus;биологическое заражение
+11676;kemikaalisaastus;химическое заражение
+11691;kvaliteedieesmärk;качественный целевой показатель
+11692;kübe;твердая частица
+11693;puhastusvõime;очистительная способность
+11700;sensor;датчик
+11702;metroloogia;метрология
+11706;vaatlussatelliit;спутник слежения
+11713;atrasiin;атразин
+11714;orgaaniline lämmastik;органический азот
+11718;halogeenitud ühend;галогенизированное соединение
+11734;väävelmonooksiid;моноксид серы
+11745;püraleen;пирален
+11752;asbestoos;асбестоз
+11762;genotoksilisus;генотоксичность
+11763;joove;интоксикация
+1177;korjusekäitlus;утилизация трупов животных
+11771;biotest;биологический опыт
+11779;orgaanilise süsiniku üldsisaldus;общее содержание органического углерода
+11781;keemiline lagunemine;химическое разложение
+11786;biootiline indeks;биотический индекс
+11788;lahustunud hapnik;растворенный кислород
+11791;lahustumatu aine;нерастворимое вещество
+11792;mittelenduv aine;нелетучее вещество
+11794;lenduv aine;летучее вещество
+11795;keemiline korrodeeruvus;подверженность химической коррозии
+1181;kantserogeensustest;тест на канцерогенность
+11813;keemiasaadus;химический продукт
+11835;kuulmiselund;органы слуха
+1184;kardioloogia;кардиология
+11852;enteroviirus;энтеровирус
+11868;loomabioloogia;биология животных
+11869;taimebioloogia;биология растений
+11879;kuulmisteravus;острота слуха
+11889;detsibell;децибел
+11896;helikvaliteet;акустическое свойство
+1190;Kariibid;Карибский регион
+11909;müraspekter;спектр звука
+11912;mehaaniline vibratsioon;механическая вибрация
+11921;taustmüra;фоновый шум
+11922;veeremüra;дорожный шум
+11927;akustiline mugavus;акустический комфорт
+11967;hüdroelektrienergia;энергия ГЭС
+11974;väikejõujaam;маломощная электростанция
+11975;vesiveski;водяная мельница
+1198;keskkonnamahutavus;экологическая емкость
+1199;edasikandumine toitumisahelas;эффект переноса
+11990;jõujaama sulgemine;отключение электростанции
+120;adsorptsioon;адсорбция
+1200;kartograafia;картография
+12006;kiire reaktor;реактор на быстрых нейтронах
+12008;atmosfääriaerosool;атмосферный аэрозоль
+1201;autorehv;автомобильная шина
+12011;biokütus;биотопливо
+12017;etanool;этанол
+12022;liiklussaastus;загрязнение выхлопными газами автомобилей
+1203;müügikultuur;товарная сельскохозяйственная культура
+12045;paleoklimatiloogia;палеоклиматология
+12060;mandrikliima;континентальный климат
+12061;kõrbekliima;пустынный климат
+12062;ekvatoriaalkliima;экваториальный климат
+12064;mägikliima;горный климат
+12065;ookeanikliima;морской климат
+12066;parasvöötmekliima;умеренный климат
+12067;troopikakliima;тропический климат
+12084;äike;гроза
+1209;katalüüs;катализ
+12091;jäide;ледяная корка
+12096;põhjaveevõtt;эксплуатация подземных водных ресурсов
+12098;vee imbumine maasse;просачивание воды в грунт
+121;täisealine;взрослый человек
+1210;katalüüt;катализатор
+12104;põhjaveepind;уровень стояния грунтовых вод
+12107;valglakaitse;охрана водосборных бассейнов
+12108;põhjaveekaitse;охрана грунтовых вод
+12122;suurveeäravool;паводковый сток
+12128;hüdromeetria;гидрометрия
+1213;katastroof;катастрофа
+12139;sedimentoloogia;седиментология
+12145;valgla;гидрографический бассейн
+1215;valgla;водосбор
+12161;soo;трясина
+12165;vee magestamine;опреснение воды
+12171;ookeanikasutus;эксплуатация ресурсов океана
+12174;ummiklainetus;морской вал
+12183;estuaarireostus;загрязнение эстуария
+12189;jõe majandamine;управление водными путями
+12199;kanalilüüs;шлюз
+122;täisealisekoolitus;обучение взрослого населения
+1220;kalasaak;улов
+12202;veetaimestiku niitmine;удаление водяных сорняков
+12204;kaldakindlustus;защита берегов
+1221;eriti ohustatud liigid;исчезающий вид
+12210;veehoidla;водохранилище
+12213;veehoidla tühjendamine;спуск водохранилища
+12215;vee kvaliteedi parendamine;улучшение качества воды
+12216;vee maitse;вкус воды
+12220;heljuvaine;взвесь
+12226;vee soolsus;соленость воды
+12231;veepüüdemahuti;дренаж
+1224;katioon;катион
+12240;purskkaev;фонтан
+1225;veised;скот
+12254;vee demineraliseerimine;деминерализация воды
+12260;reovee ühispuhastus;очистка объединенных стоков
+12263;valinguveemahuti;резервуар для дождевой воды
+12275;lahkvoolukanalisatsioon;раздельная сточная система
+12276;ühisvoolukanalisatsioon;комбинированная сточная система
+12277;vee õhustamine;аэрация воды
+12278;reovee omapuhasti;индивидуальная система очистки стоков
+12283;kasutatud vesi;отработанная вода
+12284;asulareovesi;городские жидкие отходы
+12285;jäätmekäitlusreovesi;жидкие отходы после обработки
+1229;muretundmispõhimõte;причина озабоченности
+12293;vee isepuhastus;регенерация воды
+12301;veemajandus;управление водными ресурсами
+1231;koobas;пещера
+12318;jäätmesortimisettevõte;предприятие по сортировке мусора
+12321;vanarauapanila;свалка скрапа
+12325;taaskasutustööstus;промышленная переработка твердых отходов
+12342;jäätmete kasutamine materjalina;использование отходов
+12349;rannapuhastus;очистка побережья
+12357;suurjäätmed;крупногабаритные мусор и отходы
+12366;leelisaku;щелочной элемент питания
+12367;elektripatarei;аккумулятор
+12379;tervishoiujäätmed;отходы учреждений здравоохранения
+12383;kaevandamisjäätmed;отвальные породы
+12390;vrakk;остовы разрушенных судов
+12394;mineraalõli;минеральное масло
+12395;vadak;сыворотка
+12431;põletusjääk;остатки после сжигания отходов
+1244;tselluloos;целлюлоза
+12441;jääkmuda;остаточный сточный ил
+12444;tihendamine;загустение
+1245;tselluloositööstus;целлюлозная промышленность
+12450;tööstustegevus;промышленная деятельность
+12456;tööstusjäätmaa;заброшенная промышленная территория
+12459;salastatud rajatis;режимный объект
+1247;tsement;цемент
+12471;tükeldamine;разделка туш животных
+12476;sigala;свиноводческое хозяйство
+1248;tsemenditööstus;цементная промышленность
+12482;naftatootmisahel;производство нефти
+12485;süsivesinikumahuti;хранилище углеводородных материалов
+12488;naftapuurimine;бурение нефтяных скважин
+1249;tsemendi tootmine;производство цемента
+12514;masinatööstus;производство механических приборов
+12525;puidutöötlusahel;комплексное производство древесины
+12576;biofiltrimine;биофильтрация
+12586;inseneriteadus;инжиниринг
+12587;metaankääritamine;метанирование
+1259;keskvalitsus;правительство федерального уровня
+12599;aeroobne puhastus;аэробная обработка
+12600;anaeroobne käitlus;анаэробная обработка
+12606;füüsikaline käitlus;физические методы обработки отходов
+12607;reovee eelselitus;первичная обработка
+12608;reovee biopuhastus;вторичная обработка
+12609;reovee süvapuhastus;третичная обработка
+1261;tsentraliseerimine;централизация
+12611;klaasistumine;витрификация
+1262;tsentrifuugimine;центрифугирование
+12656;allmaakivimurd;подземная каменоломня
+1266;keraamika;керамика
+12665;geotehnika;геотехника
+12666;kivimite mehaanika;горная механика
+1267;keraamikatööstus;производство керамических изделий
+12676;võsakoristus;вырубка кустарников
+12677;metsapõlengute vältimine;предотвращение лесных пожаров
+12717;pinnase stabiilsus;стабильность почвы
+12721;vulkanoloogia;вулканология
+12746;maavärinaohutust reguleerivad normid;антисейсмические нормативы
+1275;vaalaline;китовые
+12763;elanike ohutus;гражданская оборона
+12764;töökaitse;техника безопасности на производстве
+12778;riskiolukord;вероятность кризисной ситуации
+12784;tootmisõnnetus;техногенная авария
+12790;ökokatastroof;экологическая катастрофа
+12793;tuumaoht;опасность ядерной аварии
+1280;kaubandusketi juhtimine;управление производственной цепочкой
+12808;ohtlik ettevõte;опасный объект
+12814;biotehnoloogiaoht;биотехнологическая угроза
+12816;tuumarisk;ядерный риск
+12819;ohtlike materjalide vedu;транспортировка опасных материалов
+12849;õnnetuspiirkond;зона бедствия
+1286;väärtuse muutumine;изменение стоимости
+12861;ohuanalüüs;анализ опасности
+12866;preventiivinformatsioon;предупреждающая информация
+1288;jaotusvõrk;системы распределения
+12887;kahjukindlustus;страхование от ущерба
+12898;kahju hindamine;оценка ущерба
+129;toote reklaamimine;реклама товаров
+12900;hinnang;оценка
+12905;kahju hüvitamine;компенсация ущерба
+1291;kokkuleppeline tasu;договорная цена
+12912;ametiasutus;государственный орган
+12923;nõustaja;консультативная практика
+12977;patent;патент
+1298;keemiline analüüs;химический анализ
+12985;kõne;речь
+1299;keemiline koostis;химический состав
+13;absorptsioon;абсорбция
+13000;kinofilm;кинофильм
+13001;dokumentaalfilm;документальный фильм
+13017;aruanne ministrile;доклад министру
+13021;parlamendiaruanne;парламентский доклад
+13025;õigusaktitekst;официальный текст
+13026;väitekiri;тезис
+1303;kemikaalisaasta ärastamine;химическая дезактивация
+1306;keemilise õhusaasta sadenemine;химические осадки
+13060;infovõrk;информационная сеть
+13088;meetod;метод
+1310;keemiatööstus;химическая промышленность
+13100;linnaelupaik;городская среда
+13101;loodusfauna;дикая фауна
+13102;maa korraldus ja planeerimine;планирование и управление землепользованием
+13106;põhjavee kvaliteet;качество подземных вод
+13107;eesmärgi seadmine;экологическое прогнозирование
+1311;keemiatööstushoone;здание для химического производства
+13111;ontogenees;онтогенез
+13115;maamaks;налог на землю
+13117;muruväljak;газон
+13118;bioloogiline aineringe;биологический цикл
+1312;keemiline okeanograafia;химическая океанография
+13120;inimese elupaik;среда обитания человека
+13121;rahvastiku koondumine linnadesse;концентрация городского населения
+13122;koduaed;личный огород
+13123;fotograafia;фотография
+13124;pudelikork;крышка для бутылки
+13127;vanaraud;металлический скрап
+13135;hääletamine;голосование
+13136;põllumajandusehitis;основные фонды сельского хозяйства
+13137;eelarvepoliitika;бюджетная политика
+13142;koostööpoliitika;политика сотрудничества
+13143;rahvusvaheline tasakaal;международный баланс
+13145;Euroopa Üheduse finantsid;финансы ЕС
+13146;õigussüsteem;организация правовой системы
+13147;õigused;права
+13148;majanduse struktuur;экономическая структура
+13149;hulgikaubandus;оптовая и розничная торговля
+13151;monetaarökonoomika;монетарная экономика
+13152;kapitali vaba liikumine;свободное движение капитала
+13154;sotsiaalraamistik;социальная структура
+13156;sotsiaalne kaitse;социальная защита
+13159;äriettevõtlus;организация бизнеса
+1316;keemiatööstusettevõte;химический завод
+13160;ettevõtete liigitus;классификация бизнеса
+13161;organisatsiooni seaduslik vorm;юридическая форма организаций
+13164;maaviljelus;возделывание сельскохозяйственных земель
+13165;põllumajanduslikud tootmisvahendid;средства сельскохозяйственного производства
+13167;töödeldud põllumajandussaadus;переработанная сельскохозяйственная продукция
+1317;keemiapoliitika;политика в области химии
+13170;majandusgeograafia;экономическая география
+13178;vabadus;свобода
+13179;tööstusehitis;структура промышленности
+13182;laovaru;торговые запасы
+13184;ettevõtete keskkonnaökonoomika;экологичная экономика частных компаний
+13188;söödataim;фуражная сельскохозяйственная культура
+13189;tehniline kultuur;техническая сельскохозяйственная культура
+13190;kiudtaim;текстильная сельскохозяйственная культура
+13191;troopikataim;тропическое растение
+13193;põllumajandusettevõte;сельскохозяйственная единица
+13195;geofüüsikaline keskkond;геофизическая среда
+13196;naftakeemiasaadus;нефтехимический продукт
+13197;eriotstarbeline kemikaal;специальный химический продукт
+13198;valgusaadus;белковый продукт
+13199;töödeldud toiduaine;обработанный продукт питания
+1320;keemiline protsess;химический процесс
+13200;kiirtoit;продукт питания быстрого приготовления
+13202;kaevandamissaadus;продукт разработки полезных ископаемых
+13205;juurvili;корнеплод
+13207;maaviljelussüsteem;система культивации
+13209;taimekasvatus;производство зерновых культур
+13210;kalanduse struktuur;структура рыбопромысловой отрасли
+13212;söetööstus;угольная промышленность
+13213;energiatööstus;производство энергии
+13214;sideala;индустрия связи
+13215;infotehnoloogiatööstus;индустрия информационных технологий
+13216;vaakumtööstus;вакуумное производство
+13217;müügiks ettevalmistamine;предпродажная подготовка товара
+13218;peenmehaanika;точное машиностроение
+13219;materjalide tehnoloogia;технология материалов
+1322;keemiline omadus;химические свойства
+13220;sõjavarustus;военное оборудование
+13221;audiovisuaalseadmed;аудиовизуальное оборудование
+13223;mehaaniline sisseseade;механическое оборудование
+13225;soojussisseseade;тепловое оборудование
+13226;tööstustootmine;промышленное производство
+13231;haldustöö;административная должность
+13232;ehitusteenindus;строительная услуга
+13233;vedamisviis;вид транспорта
+13234;veose sihtkoht;пункт назначения при транспортировке
+13236;keskkonna seisundi halvendamine;вырождение окружающей среды
+13237;Euroopa Ühenduse eelarve;бюджет Сообщества
+13238;majandusabi;экономическая помощь
+1324;keemiline reaktsioon;химическая реакция
+13240;majanduslik prognoos;экономическое прогнозирование
+13241;tollimaks;таможенный тариф
+13242;kaubandustehing;коммерческая сделка
+13245;Euroopa valuutasüsteem;Европейская валютная система
+13247;valuutavahetuspoliitika;торговая политика
+13249;riigivõlg;государственный долг
+13250;tarbimismaks;налог на потребителя
+13251;kapitalimaks;налог на капитал
+13252;tulumaks;подоходный налог
+13253;maksustamispoliitika;политика в области налогообложения
+13254;tootjahind;закупочная цена
+13255;turuhind;рыночная цена
+13256;veokulu;транспортные расходы
+13257;hinnapoliitika;политика в области ценообразования
+13259;ettevõtte struktuur;структура компании
+1326;keemiaoht;риск от химического воздействия
+13260;finantsjuhtimine;управление финансами
+13263;konkurentsipiirang;ограничение конкуренции
+13265;rahvusvaheline avalik õigus;публичное международное право
+13266;rahvusvaheline majandusõigus;международный экономический закон
+13268;kriminaalvastutus;уголовная ответственность
+13269;riiklik leping;государственный контракт
+1327;kemikaal;химикат
+13270;tollieeskiri;таможенный нормативный документ
+13271;perekonnaõigus;семейное право
+13273;põllumajandusse puutuvad määrused;регулирование сельскохозяйственного производства
+13275;kinnisvara rentimine;сдача внаем недвижимости
+13278;kaubanduse piiramine;ограничительная торговая практика
+13281;Euroopa Ühenduse õigussüsteem;правовая система ЕС
+13282;Euroopa Ühenduse õigusakt;закон ЕС
+13283;määrus;постановление
+13284;kohtumenetlus;юридическая процедура
+13285;juurdepääs õigusmõistmisele;доступ к судебным органам
+13286;organisatsioon;организация
+13287;õigustalitus;юрист как профессия
+13288;õigussüsteem;юридическая система
+13289;haldusorganisatsioon;административная организация
+13290;juriidiline protseduur;законодательная процедура
+13291;juhtimistehnika;метод управления
+13292;institutsionaalstruktuur;организационная структура
+13293;institutsiooniline tegevus;ведомственная деятельность
+13295;ühine tollipoliitika;единая тарифная политика
+13297;ehituspoliitika;политика в области строительства
+13299;tootmispoliitika;политика в области производства
+13300;kosmosepoliitika;политика в области космоса
+13301;majanduspiirkond;экономический регион
+13303;humanitaarabi;гуманитарная помощь
+13304;rahvusvaheline konflikt;международный конфликт
+13305;rahuvalve;миротворческие усилия
+13307;haridustase;уровень образования
+13308;üldharidus;общее образование
+13309;koolitöö;вопрос школьной программы
+13310;koolielu;школьное воспитание
+13311;õppematerjal;методический материал
+13312;dokumendisüsteem;система документирования
+13313;sidevahendid;средства связи
+13314;sidesüsteem;система связи
+13316;andmetöötlussüsteem;система обработка данных
+13317;ühiskonna analüüs;социальный анализ
+13319;tervishoiuelukutse;профессия в области здравоохранения
+1332;kemikaalide katsetamine;испытание химикатов
+13320;kunstlik viljastus;методы искусственного воспроизводства
+13321;loomatervishoid;здоровье животных
+13324;sõjaohver;жертва войны
+13325;sisemigratsioon;внутренняя миграция
+13326;rahvastiku geograafiline jaotus;географическое распределение населения
+13327;rahvastiku koostis;состав населения
+13329;üksikisiku õigused;права личности
+1333;keemiline struktuur;химическая структура
+13330;majanduslikud õigused;экономические права
+13333;arvamustrend;тенденция в общественном мнении
+13335;poliitiline ideoloogia;политическая идеология
+13336;perekonnaseis;семейное положение
+13338;tööhõivestruktuur;структура занятости
+13339;ametiseisund;профессиональный статус
+13340;töösuhte lõpetamine;увольнение
+13342;sotsiaalpuhkus;отпуск по социальным причинам
+13343;tööjõud;рабочая сила
+1336;keemiline käitlus;химическая обработка
+1337;jäätmete keemiline käitlus;химическая обработка отходов
+1341;kemikaalijäätmed;химические отходы
+1343;keemiarelv;химическое оружие
+1347;kemosorptsioon;хемосорбция
+1348;keemia;химия
+135;aerofoto;аэрофотоснимок
+1350;laps;ребенок
+1355;korsten;труба
+13550;laager;лагерь
+13552;kallas;берег
+13553;metsavedu;транспортировка древесины
+13556;harta;официальный документ
+13557;loomaväljaheide;экскременты животных
+1356;korstna kõrgus;высота трубы
+13562;värvimisruum;покрасочная мастерская
+13567;soolak;соляное озеро
+13568;matkarada;туристическая тропа
+13570;ülevool;водослив
+13572;pistik;черенок
+13577;lämmastikoksiid;оксид азота
+13613;ahi;печь
+13639;veis;бычий
+1366;kloriid;хлорид
+1368;klooritud süsivesinik;хлорированный углеводород
+13697;heakskiit;одобрение
+1371;kloorimine;хлорирование
+13722;puhastamine;очистка
+1373;kloor;хлор
+13748;südalinn;внутригородской район
+13839;müra toime;воздействие шума
+1385;osaliselt halogeenitud süsivesinik;частично галогенизированные хлорфторуглероды
+1389;klorofenool;хлорофенол
+1391;klorofüll;хлорофилл
+13921;lehtpuit;древесина лиственных пород
+13937;karistusvahend;карательная санкция
+13976;okaspuu;хвойное дерево
+1399;kromatograafiline analüüs;хроматографический анализ
+1400;kromatograafia;хроматография
+1401;kroom;хром
+1406;koldvetikad;хризофита
+1410;kirik;церковь
+14146;rannikupiirkonna majandamine;управление прибрежными районами
+14163;ministeeriumihoone;здание министерства
+1419;kodanikuteadvus;осведомленность граждан
+14194;soo;болото
+14208;seadusandlus;законодательный процесс
+1421;linn;город
+1422;linnakeskus;городской центр
+14236;tagastuspakend;оборотный контейнер
+14243;heitgaasi hajutamine;распыление отработанного газа
+14245;vahesaadused;полуфабрикат
+14254;mutageenne aine;мутагенное вещество
+1426;olmejäätmeprügila;городская свалка
+143;aeroobne seisund;аэробные условия
+1431;tsiviillennuliiklus;движение гражданского  воздушного транспорта
+1434;tsiviilehitus;гражданское строительство
+1436;tsiviilkaitse;гражданская оборона
+1437;tsiviilõigus;гражданское право
+14418;asula küttevõrk;городская система теплоснабжения
+1446;esindushagi reguleeriv õigus;судопроизводство по групповым искам
+1449;savi;глина
+14543;okaspuit;древесина хвойных пород
+1456;saneerimine;расчистка
+1457;linnapuhastusosakond;отдел очистки
+1458;puhastusaine;чистящий продукт
+14588;halduslepingute sõlmimine;государственный подряд
+146;aeroobne protsess;аэробный процесс
+1460;puhas tootmine;чистая технология
+14602;geneetiliselt modifitseeritud organism;генетически модифицированный организм
+14615;ristlus;речные и морские круизы
+1462;kliima;климат
+14636;pH;значение pH
+1464;kliima mõju;влияние климата
+14651;käsitööndus;ремесла
+14652;loomakorjus;останки животных
+1466;kliimakaitse;защита климата
+14663;merekaart;морская карта
+1467;kliimaressursid;климатический ресурс
+1469;kliimatüüp;тип климата
+1470;kliima muutumine;локальное климатическое изменение
+1471;kliimamuutus;изменение климата
+1473;kliimaeksperiment;климатический эксперимент
+1474;kliimategur;климатический фактор
+1476;kliimavööde;климатическая зона
+1479;klimatoloogia;климатология
+148;aerobioloogia;аэробиология
+1481;ronitaim;вьющееся растение
+1482;kliiniline sümptom;клинический симптом
+14837;kaevandamine;разработка полезных ископаемых
+1484;kloonimine;клонирование
+14842;Must meri;Черное море
+14843;Kaspia meri;Каспийское море
+14844;Vahemeri;Средиземное море
+14845;omamaised teadmised;врожденное знание
+14847;kutseühing;профессиональное общество
+14848;teema;предмет
+14850;uhtainete liikveleminek;мобилизация отложений
+14852;maismaategevus;хозяйственная деятельность на суше
+14853;füüsiline muutumine;физическое изменение
+14854;sektorite hinded;оценка по секторам
+14856;infovahetuse infrastruktuur;информационная инфраструктура
+14858;andmetöötluskeskus;центр данных
+1486;tegevuse lõpetamine;закрытие
+14860;elektronteabevõrk;электронная информационная сеть
+14861;laivõrk;сеть передачи данных
+14862;Internet;Интернет
+14864;kodulehekülg;домашняя страница в Интернете
+14865;hüpertekst;гипертекст
+14867;uudisegrupp;телеконференция
+14869;multimeediumtehnika;мультимедийная технология
+1487;ettevõtte tegevuse lõpetamine;закрытие фирмы
+14870;audiovisuaalesitlus;аудиовизуальное представление
+14871;teabemapp;подборка информации
+14872;eksponaat;экспонат
+14873;infoleht;информационный бюллетень
+14874;raadiosaade;радиовещательная программа
+14875;teleprogramm;телевизионная программа
+14876;avalikud suhted;общественные связи
+14878;bibliograafilise info süsteem;библиографическая информационная система
+14880;allikaosundamisteenistus;справочная информационная система
+14881;allikaosundus;справочная информация
+14882;statistilise teabe süsteem;статистическая информационная система
+14884;raamatukoguteenistus;библиотечное обслуживание
+14886;dokumentatsiooni indekseerimine;индексация документации
+14887;dokumendilaenutus;выдача документов
+14888;raamatukogudevaheline laenutus;выдача по межбиблиотечному обмену
+14889;valikteadistus;избирательное распространение информации
+1489;riietus;одежда
+14893;otsustusabisüsteem;система обеспечения принятия решений
+14894;tarkvaraarendus;разработка программных средств
+14898;mitmevärviskanner;многоспектральное сканирующее устройство
+14899;eraldusvõime;разрешающая способность
+1490;tekstiilitööstus;производство одежды
+14900;piksel;пиксел
+14901;spektririba;спектральная полоса
+14902;pildi tuvastamistunnus;идентификация объекта наблюдения
+14903;pilditöötluse digitaalsüsteem;цифровая система обработки изображений
+14904;digitaalpilditöötlus;методы обработки цифровых изображений
+14905;kujutuvastus;распознавание образов
+14906;mosaiik;монтаж спутниковых или аэрофотоснимков
+14907;satelliitpildifiltrimine;фильтрация изображений
+14908;pildiväärindus;усиление изображений
+14909;geomeetriakorrektsioon;поправки на геометрию
+1491;pilv;облако
+14910;kujutise geokodeerimine;регистрация изображений
+14911;satelliitpildiliigitus;классификация изображений
+14914;pseudokoloreerimine;комбинированное цветное изображение
+14915;atmosfäärikorrektsioon;поправки на атмосферу
+14916;geoinfosüsteem;цифровая система ГИС
+14917;kaugseireandmevorming;цифровой формат ГИС
+14918;vektor;вектор
+14919;punkt;координата
+14920;liin;линия вектора
+14922;raster;растр
+14924;digiteerimistehnika;цифровые средства ГИС
+14926;koordinaatvõrk;географическая привязка
+14930;riigipiir;национальная граница
+14931;riigisisene piirjoon;внутринациональная граница
+14932;halduspiir;административная граница
+14933;georefereeritud andmed;данные дистанционного зондирования
+14934;kaardiprojektsioon;географическая проекция
+14935;koordinaatsüsteem;система координат
+14938;kaugseirekeskus;центр дистанционного зондирования
+14947;allmaaprügila;могильник
+14955;asulaväline ala;внешнее пространство
+14956;süvamerekaevandamine;глубоководная разработка полезных ископаемых
+14959;elektrikaubatööstus;производство электротехнических изделий
+14960;teenindusettevõte;компания в области услуг
+14962;vee kvaliteedi ennistamine;восстановление воды
+14963;kohtküte;местное теплоснабжение
+14964;ekspediitor;экспедитор
+14965;jäätmetekke vältimine;безотходное производство и потребление
+14966;looduse sõltumatuse seadus;закон естественной независимости
+14971;rahvusvaheline tehing;международная сделка
+14972;teede rajamine;прокладывание дорог
+14974;kodanikualgatus;гражданская инициатива
+14975;ülekoormatud paik;районы напряженной экологической обстановки
+14976;ladustamine;хранение
+14982;mäestikukaitseala;горное убежище
+1499;koagulatsioon;коагуляция
+15020;isoleermaterjal;изоляционный материал
+1505;kivisöegaasi tootmine;газификация угля
+1506;söe veeldamine;ожижение угля
+1507;söe kaevandamine;добыча угля
+1509;söe rikastamine;обогащение угля
+151;aerodünaamiline müra;аэродинамический шум
+1511;söetehnoloogia;гидрогенизация угля
+1512;rannik;берег
+1513;rannikupiirkond;береговая зона
+1515;rannikupiirkonna arendamine;освоение морских прибрежных районов
+1516;rannikuökosüsteem;прибрежная экосистема
+1517;rannikukeskkond;прибрежная среда
+1520;rannapüük;прибрежное рыболовство
+1523;rannikureostus;загрязнение побережий
+1526;rannikuvesi;прибрежные воды
+1527;rannikupiirkonna planeerimine;планирование прибрежных зон
+1528;rannavalve;спасательная служба на воде
+1532;koobalt;кобальт
+1536;keemiline hapnikutarve;химическое потребление кислорода
+1541;juhend;обычаи и практика
+1542;kood;кодекс
+1548;ainuõõsne;кишечнополостные
+1553;koospõletamine;одновременное сжигание отходов
+1554;koks;кокс
+1556;külm;холод
+1559;külma piirkonna ökosüsteem;экосистема холодной зоны
+1567;kolloid;коллоид
+1568;kolloidolek;коллоидное состояние
+1569;asustamine;колонизация
+157;aerosool;аэрозоль
+1570;kolorimeetria;колориметрия
+1576;segareovesi;смешанные сточные воды
+1578;süttivus;способность к горению
+1582;sisepõlemismootor;двигатель внутреннего сгорания
+1583;heitgaas;выхлопной газ
+1584;põlemisjääk;продукты нагара
+1588;kaubastamine;коммерциализация
+1590;kaubandusõigus;коммерческое право
+1591;kaubandusmüra;шум от производственной деятельности
+1594;kaubaveod;движение грузового транспорта
+1595;kaubaveok;грузовое транспортное средство
+1596;kaubandusjäätmed;отходы торговых предприятий
+1601;taval põhinev kokkulepe;общее соглашение
+1613;kooslus;экологическое сообщество
+1616;Euroopa Ühenduse õigus;законы Сообщества
+1618;üldsuse osalemine;участие общественности
+1622;pendelliiklus;пригородный транспорт
+1625;tihendamine;прессовка
+1628;ettevõtte strateegia;политика компании
+163;esteetika;эстетика
+1630;võrdlev õigusteadus;сравнительное право
+1631;võrdluskatse;сравнительный тест
+1632;võrdlus;сравнение
+1633;hüvitis;компенсация
+1636;tasendusmeede;компенсационная мера
+1637;tasendusmaks;компенсационный налог
+1638;konkurents;биологическая конкуренция
+1639;majanduskonkurents;экономическая конкуренция
+1641;konkurentsivõime;конкурентоспособность
+1646;kompleksimoodusti;соединяющий реагент
+1647;liitreostus;смешанное загрязнение
+1649;kompost;компост
+1651;kompostitavad jäätmed;компостные отходы
+1652;kompostimine;компостирование
+1653;kompostimine omal krundil;компостирование производителем
+1659;kokkusurumine;компрессия
+1660;kompressor;компрессор
+1663;sundvaldus;обязательное использование
+1669;Euroopa Ühendused;Европейские Сообщества
+167;metsastamine;облесение
+1677;betoon;бетон
+1679;betoontootetööstus;производство изделий из бетона
+1686;juhtivus;проводимость
+1689;eesmärkide lahknemine;конфликт целей
+1690;huvide lahknemine;конфликт интересов
+1691;kongress;конгресс
+1692;okaspuu;хвойные
+170;Aafrika;Африка
+1704;mageveekaitse;сохранение пресной воды
+1706;geenivarakaitse;сохранение генетических ресурсов
+1708;mälestisekaitse;сохранение памятников
+171;järelpõletus;дожигание
+1712;riigiõigus;конституционное право
+1718;ehitusmasinad;строительное оборудование
+1724;ehitusmüra;строительный шум
+1725;seadmeehitus;строительство зданий и сооружений
+1728;ehitustehnoloogia;строительная технология
+173;vanus;возраст
+1730;ehitamine taaskasutusmaterjalist;строительство из вторичных материалов
+1732;nõustamine;консультация
+1737;tarbekaubad;потребительские товары
+1738;tarbijarühm;группа потребителей
+1739;tarbijateave;информация для потребителя
+1740;tarbijakaitse;защита потребителя
+1742;tarbimisjäätmed;бытовые отходы
+1745;tarbimisstruktuur;структура потребления
+1746;konteiner;контейнер
+1751;saastatud pinnas;загрязненная почва
+1752;saastumine;загрязнение
+1759;püsikoormus;постоянное загрязнение
+1762;leping;контракт
+1763;lepinguline koristaja;профессиональные услуги по уборке
+1769;ülepõletamine;огневая культивация
+1772;kontrollitav jahipiirkond;регионы разрешенной охоты
+1773;juhtiv ametkond;контролирующие полномочия
+1774;juhtimismeede;меры контроля
+1775;linnastu;большой город с пригородами
+1777;tavaenergia;традиционный источник энергии
+1781;jahutamine;охлаждение
+1782;jahutusõli;охлаждающее масло
+1786;jahutusvesi;охлаждающая вода
+1787;koostöö;сотрудничество
+1788;koostööpõhimõte;принцип сотрудничества
+1792;vask;медь
+1794;korall;коралл
+1796;korallrahu;коралловый риф
+1800;kork;пробка
+1807;koridor;коридор
+1808;korrosioon;коррозия
+1813;kosmeetikatööstus;производство косметики
+1814;kosmiline kiirgus;космическое излучение
+1820;kulude suurenemine;увеличение расходов
+1822;kulude katmise baas;условие покрытия расходов
+1823;kulude vähenemine;снижение расходов
+1824;maksumus;стоимость
+1826;rahvamajanduskulud;национальные экономические расходы
+1827;puuvill;хлопок
+1837;maakond;графство
+1842;kohus;суд
+1846;kate;покрытие
+185;agrobiotehnoloogia;сельскохозяйственная биотехнология
+1850;käsitöö;ремесло
+1854;krediidiabi;кредитная помощь
+186;põllumajandushoone;сельскохозяйственное строение
+1860;kuritegevus;преступление
+1862;kriminaalõigus;уголовное право
+1864;kriitiline tase;критический уровень
+1865;kriitiline koormus;критическая нагрузка
+1870;krokodill;крокодил
+1874;taimekaitse;защита посевов
+1875;külvikord;ротация сельскохозяйственных культур
+1877;taimekasvatusjäätmed;отходы сбора сельскохозяйственных культур
+1880;ülekäigukoht;дорожный переход
+1881;loomaülekäigukoht;места для перехода животных
+1888;ristlus;круизы и морские путешествия
+1891;kristallisatsioon;кристаллизация
+1892;kristallograafia;кристаллография
+1898;kultuurtaim;культивируемое растение
+1899;viljelus;культивация
+1902;viljelusviis;метод культивации
+1909;kultuuri areng;культурное развитие
+1911;kultuuriasutus;учреждение культуры
+1912;kultuuripärand;культурное наследие
+1917;kultuuripoliitika;политика в области культуры
+1926;õppekava;кадровая анкета
+1928;kombed ja tavad;обычай и практика
+1929;toll;таможенные сборы
+1931;tsüanaat;цианат
+1933;tsüaniid;цианид
+194;põllumajandusheitmed;сельскохозяйственные стоки
+1945;tsütoloogia;цитология
+1946;tsütotoksilisus;цитотоксичность
+195;agrotehnoloogia;агротехника
+1950;piimatalu;молочная ферма
+1951;piimatööstus;молочная промышленность
+1952;piimasaadus;молочный продукт
+1955;pais;дамба
+1956;kahju;ущерб
+1958;sõjaväemanöövrite tekitatud kahju;ущерб от военных маневров
+1959;kahju vältimine;предотвращение ущерба
+1969;ohtlikud kaubad;опасные товары
+197;põllumajandusseadmed;сельскохозяйственное оборудование
+1974;andmehõive;получение данных
+1975;andmeanalüüs;анализ данных
+1981;andmekandja;носитель данных
+1984;andmevahetus;обмен данными
+1988;andmekaitse;защита данных
+1989;andmesalvestustehnika;технология записи данных
+199;põllumajanduskasutus;сельскохозяйственная эксплуатация
+1993;lagusaadus;продукт разложения
+1996;DDT;ДДТ
+20;talutav riskitase;приемлемый уровень риска
+2000;võlg;долг
+2002;nõrutamine;сцеживание
+2003;detsentraliseerimine;децентрализация
+2005;lehtpuu;лиственное дерево
+2006;otsus;решение
+2009;otsustamine;процесс принятия решения
+2014;lagunemine;разложение
+202;põllumajandusmaa;сельскохозяйственные угодья
+2020;määrus;декрет
+2023;süvameresete;запасы в открытом море
+2025;süvamerepüük;рыболовство в открытом море
+2029;hirv;олень
+2031;kaitse;защита
+2035;defoliatsioon;дефолиация
+2036;raadamine;сведение лесов
+2039;lagundatavus;способность к разложению
+204;põllumajandusmaastik;сельскохозяйственный ландшафт
+2041;loodusvarade vähenemine;деградация природных ресурсов
+2042;lagusaadus;продукт разложения
+2048;trükivärvi eemaldamine;удаление типографской краски
+2050;süü;преступность
+2052;delta;дельта реки
+2053;nõue;спрос
+2054;demokraatia;демократия
+2055;rahvastiku kasv;демографическое развитие
+2056;rahvastikuprotsess;демографическая эволюция
+206;agraarõigus;сельскохозяйственное право
+2066;tõestatavus;способность демонстрировать
+2069;dendrokronoloogia;дендрохронология
+207;põllumajandusmasinad;сельскохозяйственные машины
+2070;dendromeetria;дендрометрия
+2071;denitrifikatsioon;денитрификация
+2072;heitgaasi denitrifitseerimine;денитрификация газовых отходов
+208;põllumajandustootmise juhtimine;управление в сельском хозяйстве
+2083;sadenenud kübemed;осажденные частицы вещества
+2084;sadenemine;отложение осадочных материалов
+2088;riigi vahelesegamise vähendamine;либерализация
+2093;nahktiivaline;семейство Dermaptera
+2098;magestamine;опреснение
+2099;magestusseade;опреснительная установка
+21;kokkulepe;соглашение
+210;agrotehnika;агротехнические методы
+2103;kõrb;пустыня
+2109;kõrbestumistõrje;контроль за опустыниванием
+2111;kõrbetirts;саранча
+2115;projekt;чертеж
+2117;kabinetiuuring;кабинетное исследование
+2119;desorptsioon;десорбция
+212;põllukahjur;сельскохозяйственные вредители
+2127;avastamine;обнаружение
+2129;detektor;детектор
+213;põllumajanduse planeerimine;планирование сельского хозяйства
+2139;määramismeetod;метод детерминации
+2147;arenenud maa;развитая страна
+215;agraarpoliitika;сельскохозяйственная политика
+2151;arengumaade võlg;долг развивающихся стран
+2152;arengumaa;развивающаяся страна
+2155;arenguabi;помощь развитию
+2156;arengupiirkond;развивающийся район
+2158;arengumudel;образец развития
+2159;arengulaad;модель развития
+216;põllumajandusreostus;сельскохозяйственное загрязнение
+2160;arengu planeerimine;планирование развития
+2161;arengukava;план развития
+2167;dialüüs;диализ
+2179;diiselkütus;дизельное топливо
+2182;diferentseerumine;биологическая дифференциация
+2185;hajureostusallikas;различные источники загрязнения
+2186;difusioon;диффузия
+219;põllumajandustoodang;сельскохозяйственное производство
+2195;maapinna digitaalmudel;цифровая модель земной поверхности
+2196;digiteerimine;оцифровка
+22;juurdepääsutee;подъездные дороги
+220;põllumajandussaadus;сельскохозяйственная продукция
+2200;lahjendatud hape;разбавленная кислота
+2207;dioksiin;диоксин
+2211;otseheiteallikas;прямой выброс
+2212;direktiiv;директива
+2216;õnnetustagajärgede kõrvaldamine;устранение последствий стихийного бедствия
+2220;õnnetusvalmidus;готовность к стихийным бедствиям
+2221;õnnetustõrje;предупреждение стихийных бедствий
+2222;õnnetusabi;помощь при стихийных бедствиях
+2227;äravoolurežiim;дебит реки
+2233;haiguse põhjus;причина болезни
+224;põllumajandussaaduste hoidla;хранение сельскохозяйственной продукции
+2242;laadimisteatis;уведомление об отправке
+2245;dispersioon;дисперсия
+2246;hajumisarvutus;расчет дисперсии
+2247;pagulane;перемещенное лицо
+2253;matusekorraldus;погребальные услуги
+2254;sõjavarustuse kõrvaldamine;утилизация материалов военного назначения
+2257;lahustamine;растворение
+2259;lahustunud orgaaniline süsinik;растворенный органический углерод
+2263;konkurentsi kahjustamine;нарушение условий конкуренции
+2264;jaotumine;распределение
+2269;kaugküte;районное централизованное теплоснабжение
+2270;kaugküttejaam;коммунальная отопительная установка
+2275;hüljatud sõjaväeala;заброшенная военная площадка
+2276;kraav;канава
+2279;DNA;ДНК
+2282;dokument;документ
+2284;dokumentatsioon;документация
+2285;dokumendikeskus;центр документации
+2286;dokumenditüüp;тип документа
+2287;koer;собака
+229;põllumajandusjäätmed;отходы сельского хозяйства
+2290;majapidamisseade;бытовой прибор
+2291;kodustatud loom;домашнее животное
+2294;kerge kütteõli;бытовое жидкое топливо
+2298;olmemüra;бытовой шум
+23;juurdepääs kultuuriväärtustele;доступ к культурным ценностям
+2300;sisekaubandus;внутренняя торговля
+2304;olmejäätmeprügila;свалка бытового мусора
+2305;olmereovesi;бытовые жидкие отходы
+2309;annuse ja toime suhe;взаимоотношение дозы и эффекта
+2315;seaduseelnõu;проект законодательного документа
+2316;kiil;стрекоза
+2319;kuivendus;дренаж
+232;põllumajandus;сельское хозяйство
+2324;veoloom;рабочий скот
+2327;süvendamine;землечерпательные работы
+233;põllumajanduslik suurtootmine;сельское хозяйство и животноводство
+2332;triivpüük;дрифтерный лов
+2333;puurimine;бурение
+2336;puurseade;буровая установка
+2339;joogivesi;питьевая вода
+2343;joogiveevarustus;обеспечение питьевой водой
+2347;põud;засуха
+235;põllumajanduse arendamise raamkava;перспективный сельскохозяйственный план
+2350;põuatõrje;борьба с засухой
+2352;ravimite kuritarvitamine;злоупотребление наркотиками
+2354;ravim;лекарство
+2358;kuivpuhastus;химическая чистка
+2359;kuivsadenemine;сухое осаждение
+2363;kuivatamine;высыхание
+2364;kontsentriline rahvamajandus;многоукладная экономика
+237;agrokemikaal;агрохимикат
+2377;luide;дюна
+2380;päikesepaiste kestus;продолжительность солнечного дня
+2381;tolm;пыль
+2383;tolmuimmissioon;выброс пыли
+2384;tolmuärastus;удаление пыли
+2386;registreerimiskohustus;обязательная регистрация
+2387;eluruum;жилище
+239;agraarmetsandus;агролесоводство
+2394;tammikindlustus;укрепление дамб
+2398;varajase hoiatamise süsteem;система раннего оповещения
+24;juurdepääs merele;доступ к морю
+240;agrotööstus;агроиндустрия
+2400;maakoor;земная кора
+2402;maavärin;землетрясение
+2406;Päikese mõju Maale;взаимосвязь Земли и Солнца
+2408;vihmauss;земляной червь
+2409;kõrvahark;уховертка
+241;agrometeoroloogia;агрометеорология
+2422;EÜ direktiiv;директива ЕС
+2423;EÜ biotsiididirektiiv;директива ЕС по биоцидам
+2424;EÜ pakendidirektiiv;директива ЕС по упаковке
+2434;ökoloogiline areng;экоразвитие
+2435;ökomärgistamine;экологическая маркировка
+2438;kohastumine;экологическая адаптация
+2440;ökoloogiline hindamine;экологическая оценка
+2442;ökoloogiline arvepidamine;бухгалтерский учет природоохранной деятельности
+245;õhk;воздух
+2457;ökoloogiline näitaja;экологический параметр
+2461;ökoloogiliselt tundlik ala;экологически нестабильный регион
+2463;ökoloogiline loendus;экологическая инвентаризация
+2470;ökoloogia;экология
+2476;majandustegevus;экономическая деятельность
+2478;majandusanalüüs;экономический анализ
+2484;majanduslik areng;экономическое развитие
+2490;majandustõus;экономический рост
+2493;majandusinstrument;экономический инструмент
+2494;majanduse juhtimisinstrument;инструмент экономического управления
+2497;majanduse plaanimine;экономическое планирование
+2498;majanduspoliitika;экономическая политика
+25;õnnetus;авария
+250;õhu konditsioneerimine;кондиционирование воздуха
+2505;majanduslik olukord;экономическая ситуация
+2508;majandussüsteem;экономическая система
+2510;majandusteooria;экономическая теория
+2512;majanduslik elujõulisus;экономическая жизнеспособность
+2514;majanduse tsoneerimine;экономическое районирование
+2516;majandus;экономика
+2517;ökopediaatria;экопедиатрия
+2518;ökofüsioloogia;экофизиология
+2519;ökosüsteem;экосистема
+2520;ökosüsteemanalüüs;анализ экосистем
+2522;ökosüsteemi degradeerumine;деградация экосистем
+2523;ökosüsteemne uurimistöö;исследования экосистем
+2525;ökosüsteemitüüp;тип экосистемы
+2527;ökoturism;экотуризм
+2528;ökotoksilisus;экотоксичность
+2529;ökotoksikoloogiline hindamine;экотоксикологическая оценка
+253;õhusõiduk;летательный аппарат
+2530;ökotoksikoloogia;экотоксикология
+2531;ökotüüp;экотип
+2539;edafoloogia;почвоведение
+2542;toidurasv;пищевой жир
+2547;haridus;образование
+255;lennukimootoriheitmed;выхлопы двигателей летательных аппаратов
+2551;haridusasutus;образовательное учреждение
+2554;hariduse planeerimine;планирование в области образования
+2555;hariduspoliitika;политика в области образования
+2557;haridussüsteem;система образования
+2564;mõju tervisele;воздействие на здоровье
+2565;mõju inimesele;воздействие на человека
+2566;keskkonnamõju;воздействие на окружающую среду
+2569;efektiivsuskriteerium;критерий эффективности
+2570;kasutegur;уровень эффективности
+2571;heitvesi;сточная вода
+2573;muna;яйцо
+2582;elastsus;эластичность
+2584;vanur;пожилой человек
+2586;elektrotehnika;электротехника
+2587;elektritööstus;производство электроэнергии
+2588;elektrienergiasalvesti;устройство для аккумулирования энергии
+2593;elektriettevõte;электроэнергетическая компания
+2594;elektrienergia kulu;потребление электричества
+2595;elektritootmine;производство электроэнергии
+2596;elektritootmiskulud;стоимость производства электроэнергии
+2597;elektrimajandus;электроэнергетика
+2599;elektriliin;линия электропередачи
+2606;elektrijõujaam;электростанция
+2608;elektrivarustus;обеспечение электроэнергией
+2612;elektrisõiduk;электромобиль
+2617;elektrokineetika;электрокинетика
+2618;elektrolüüs;электролиз
+262;õhu liikumine;движение воздуха
+2624;elektroonika;электроника
+2625;elektroonikajäätmed;отходы электронной промышленности
+2628;elektronsudu;электросмог
+2633;elektrotehniline seadmestik;электротехническое оборудование
+2634;elektrotehnikatööstus;электротехническая промышленность
+2636;I rühma element;химический элемент группы I
+2637;II rühma element;химический элемент группы II
+2638;III rühma element;химический элемент группы III
+2639;IV rühma element;химический элемент группы IV
+2640;V rühma element;химический элемент группы V
+2641;VI rühma element;химический элемент группы VI
+2643;keemiline element;химический элемент
+2651;emantsipatsioon;эмансипация
+2654;embrüogenees;эмбриогенез
+2657;hädaabi;помощь при чрезвычайной ситуации
+2665;heiteohje;регулирование выбросов
+2666;heiteandmed;данные по выбросам
+2667;heitetegur;фактор выброса
+267;lennujaam;аэропорт
+2684;töö ja keskkond;занятость и окружающая среда
+2687;mõju tööhõivele;эффект от уровня занятости
+2689;emulgeerimine;образование эмульсии
+2691;emulsioon;эмульсия
+2693;kaitsekatmine;инкапсуляция
+2696;entsüklopeedia;энциклопедия
+2697;eriti ohustatud loomaliik;исчезающие виды животных
+270;õhu kvaliteet;качество воздуха
+2700;eriti ohustatud taimeliik;исчезающие виды растений
+2702;eriti ohustatud liik;исчезающие виды
+2704;põhjavee ohustamine;угроза состоянию подземных вод
+2706;endokrinoloogia;эндокринология
+2712;energia;энергия
+2713;energiabilanss;энергетический баланс
+2715;energiakulu;потребление энергии
+2718;energiavajadus;потребности в энергии
+272;õhu kvaliteedikontroll;контроль за качеством воздуха
+2720;energiakadu;потеря энергии
+2722;energiajaotussüsteem;система распределения энергии
+2723;energiamajandus;энергетика
+2724;energiakasutuse efektiivsus;эффективность использования энергии
+2731;energiaturg;рынок энергоресурсов
+2733;energiapoliitika;энергетическая политика
+2734;energeetiline protsess;энергетический процесс
+2735;energiatoodang;производство энергии
+2736;jäätmete energiakasutus;вторичное использование энергии
+2738;energiavarud;энергетический ресурс
+274;õhu kvaliteedi ohjamine;управление качеством воздуха
+2741;energiaallikas;источник энергии
+2742;energiakandja;энергоноситель
+2746;energiavarustus;снабжение энергией
+2748;energialiik;тип энергии
+2749;energiakasutus;использование энергии
+2751;energiakasutusviis;структура использования энергии
+2754;mootor;двигатель
+2755;laiendamispoliitika;политика укрупнения
+2756;laiendamiskava;программа укрупнения
+2758;rikastatud uraan;обогащенный уран
+2759;rikastamine;обогащение
+2760;toidu piisavus;достаточное обеспечение продуктами питания
+2766;keskkonnaõnnetus;экологическая авария
+2767;keskkonnaarvepidamine;финансовая оценка экологических проблем
+2771;keskkonnamure;экологическая озабоченность
+2772;keskkonnahoidlik arhitektuur;экологически устойчивая архитектура
+2773;inimasulate keskkonnaaspekt;экологический аспект населенных пунктов
+2774;keskkonnahinnang;оценка состояния окружающей среды
+2776;keskkonnaaudit;проведение экологической ревизии
+2779;keskkonnabilanss;баланс окружающей среды
+2782;keskkonnamuutus;изменение окружающей среды
+2784;keskkonnakeemia;химия окружающей среды
+2789;keskkonnamõju;последствия для окружающей среды
+279;õhuruumi planeerimine;аэрокосмическое планирование
+2790;keskkonnakaitse;охрана окружающей среды
+2796;keskkonnakulud;природоохранные затраты
+2797;keskkonnakuritegu;экологическое преступление
+2799;keskkonnakriteerium;критерий окружающей среды
+2805;keskkonnaareng;экологическое развитие
+281;õhu temperatuur;температура воздуха
+2810;keskkonna majandusprobleem;вопрос экономики окружающей среды
+2811;keskkonnaökonoomika;экономика окружающей среды
+2814;keskkonnakasvatus;экологическое образование
+2817;keskkonnaettevõte;экологическое учреждение
+2818;keskkonnaeetika;экологическая этика
+282;lennuliiklus;движение воздушного транспорта
+2824;keskkonnalähtene tervishoid;санитарное состояние окружающей среды
+2828;keskkonnaajalugu;экологическая хронология
+2829;keskkonnamõju;воздействие на окружающую среду
+2841;keskkonnamõju hindamise aruanne;заключение экологической экспертизы
+2844;keskkonnamõju uuring;подготовка экологического обоснования проекта
+2857;keskkondlus;экологический принцип
+2865;keskkonnavastutus;экологическая ответственность
+2866;keskkonnaluba;экологическое лицензирование
+2871;keskkonnasäästlik toode;экологически чистый продукт
+2872;keskkonnahoidlik juhtimine;экологически ответственный менеджмент
+2880;keskkonnameditsiin;экологическая медицина
+2884;ümbrusemüra;природный шум
+2886;keskkonnataju;восприятие окружающей среды
+2887;keskkonnasuutlikkus;экологическая деятельность
+289;õhutransport;воздушные перевозки
+2897;keskkonnategevuskava;экологическая программа
+2900;keskkonnakaitse;защита окружающей среды
+2911;keskkonnapsühholoogia;экологическая психология
+2912;keskkonnakvaliteet;качество окружающей среды
+2913;keskkonnakvaliteedikriteerium;критерий качества окружающей среды
+2920;keskkonnariski hindamine;оценка экологического риска
+2922;keskkonnateadus;наука об окружающей среде
+2923;keskkonnaohutus;экологическая безопасность
+2924;keskkonnanäidisepank;банк образцов природных элементов
+2926;keskkonnastatistika;экологическая статистика
+2927;keskkonnabörs;торговля экологически чистыми товарами
+2928;keskkonnatoetus;субсидия на экологию
+2929;keskkonnaeesmärk;экологический объект
+2931;keskkonnaõpetus;экологическое обучение
+2932;keskkonnatehnika;экологичная технология
+2938;keskkonna majanduslik hindamine;экономическая оценка природоохранной деятельности
+2940;keskkonnavandalism;экологический вандализм
+2941;keskkonnavastane sõda;экологическая война
+2944;keskkond;окружающая среда
+2949;epidemioloogia;эпидемиология
+2955;hobuslane;лошадиный
+2958;ekvivalentdoos;эквивалентная доза
+2960;ergonoomia;эргономика
+2964;erosiooni ohjamine;контроль за эрозией
+2969;estuaaribioloogia;биология эстуариев
+2970;estuaarikaitseala;охраняемые территории эстуариев
+2972;estuaariökosüsteem;экосистемы эстуариев
+2973;estuaariokeanograafia;океанография эстуариев
+2978;söövitusaine;вещество для травления
+2979;eeter;эфир
+298;alkohol;алкоголь
+2980;eetika;этика
+2989;Euroopa Nõukogu;Совет ЕС
+2991;Euroopa Aaatomienergiaühendus;Евратом
+2992;Euroopa;Европа
+2993;Euroopa Komisjon;Европейская Комиссия
+2996;Euroopa Kohus;Европейский Суд
+30;õnnetusallikas;причина аварии
+3002;Euroopa Parlament;Европейский Парламент
+3006;Euroopa Liit;Европейский Союз
+3007;eutrofeerumine;эвтрофикация
+301;vetikad;водоросль
+3011;hindamine;оценка
+3012;hindamiskriteerium;критерий оценки
+3013;hindamismeetod;метод оценки
+3014;tehnoloogia hindamine;оценка технологии
+3019;aurumine;испарение
+3026;evolutsioon;эволюция
+3027;täppisteadus;точная наука
+3028;kaevand;выкопанная яма
+3033;korstnate liigkõrgus;чрезмерная высота труб
+3040;täiteakt;подзаконный акт
+3044;väljalaskeseade;труба для сброса отходов
+3045;heitgaas;выхлопной газ
+3047;olemasolev kemikaal;известный химикат
+3048;võõrliik;экзотический вид
+3054;ekspertsüsteem;экспертная система
+3058;plahvatus;взрыв
+3061;lõhkeaine;взрывчатое вещество
+3065;ohtlike jäätmete väljavedu;экспорт опасных отходов
+3067;ekspositsioon;время облучения
+3071;sundvõõrandamine;экспроприация
+308;alitsükliline ühend;алициклическое соединение
+3087;hankiv metallurgia;добыча
+309;alitsükliline süsivesinik;алициклический углеводород
+3090;maavaraammutustööstus;добывающая промышленность
+3097;riie;ткань
+3103;intensiivne loomakasvatus;промышленная ферма
+3106;fekaalibakter;фекальная бактерия
+311;alifaatne ühend;алифатическое соединение
+3113;söötis maa;участки земли под паром
+3115;kesa;земля под паром
+3117;sugukond;семья
+3119;pereplaneerimine;планирование семьи
+312;alifaatne süsivesinik;алифатический углеводород
+3120;nälg;голод
+3123;põllumajandusehitis;жилой дом на ферме
+313;leeliseline pinnas;щелочные земли
+3130;talu;ферма
+3133;kiirliiklus;скоростной транспорт
+3143;föderaalametkond;федеральная власть
+3144;föderaalvalitsus;федеральное правительство
+3147;föderaalõigus;федеральный закон
+3149;tasu;плата
+3151;loomasöötmine;кормление животных
+3154;madalsoo;фен
+3162;sõnajalg;папоротник
+3169;väetis;удобрение
+3174;kiud;волокно
+3175;klaaskiud;стекловолокно
+3178;välikatse;полевые испытания
+3179;väliuuring;полевое исследование
+3183;film;кинофильм
+3184;filter;фильтр
+3186;filtrikook;осадок на фильтре
+319;leeliseline muld;щелочная почва
+3192;püsijäätmepanila;захоронение отходов
+3194;rahalised vahendid;финансы
+3195;finantsabi;финансовая помощь
+3196;rahaline hüvitis;финансовая компенсация
+3197;rahaline panus;финансовый вклад
+3199;finantseerimisinstrument;финансовый инструмент
+3209;peentolm;мелкая пыль
+3218;tuleohutusmeede;мера пожарной безопасности
+3219;tulekindlaks tegev aine;негорючий реагент
+322;alkaan;алкан
+3220;tuletõkestus;пожарная безопасность
+3225;tuleohutusnõuded;требование пожарной безопасности
+3226;tuletõrje;пожарная служба
+3236;kalahaigus;болезнь рыб
+3241;kalavarud;рыбные ресурсы
+3243;kalandusökonoomoka;экономика рыболовства
+3246;kalanduspoliitika;политика в области рыболовства
+3252;kala;рыба
+3254;kalakasvatus;разведение рыб
+3256;kalapüük;рыбная ловля
+326;alküülühend;алкильное соединение
+3260;kalatööstus;рыболовная промышленность
+3269;kalahukk;смертельные болезни рыб
+3273;kalavarud;рыбные запасы
+3274;mürgisus kaladele;яд рыб
+3278;kindel maksegraafik;фиксированная цена
+3282;tungalpõletus;сжигание в факеле газов
+3288;kirp;блоха
+329;allergeen;аллерген
+3298;tulv;наводнение
+3301;üleujutus;затопление
+3307;taimestiku taastamine;восстановление флоры
+3308;flotatsioon;флотация
+3312;lill;цветок
+3315;vooluväli;поле течения
+332;allergia;аллергия
+3322;hüdroautomaatika;струйная технология
+3325;keevkiht;псевдоожиженный слой
+3328;fluorimine;фторирование
+3334;fluor;фтор
+3340;vooluveevaru;речной ресурс
+3342;lendtuhk;летучая зола
+3343;vahutekiti;пенообразующее вещество
+3347;udu;туман
+335;paigutamine;распределение
+3350;lehestik;листва
+3354;toit;пища
+3356;toidulisand;пищевая добавка
+3360;toiduvärv;пищевой краситель
+3362;toidukaubandus;торговля продуктами питания
+3365;toidu saastumine;заражение продуктов питания
+3367;toiduhügieen;гигиена продуктов питания
+3368;toiduainetööstus;пищевая промышленность
+3370;toiduainekiiritus;облучение продуктов питания
+3376;toiduainetööstus;пищевая обрабатывающая промышленность
+3380;toidu kavaliteet;качество продуктов питания
+3384;toiduteadus;наука о продуктах питания
+3387;toiduvaru;государственные резервы продуктов питания
+3388;toiduaine;продукт питания
+3392;toiduvedu;транспортировка продуктов питания
+3395;jalgrada;тропинка
+340;sulam;сплав
+3402;välismajandussuhted;внешние экономические связи
+3404;välispoliitika;внешняя политика
+3405;väliskaubandus;внешняя торговля
+3410;metsakaitse;сохранение лесов
+3416;metsaökosüsteem;экосистема леса
+3423;metsamajandus;лесная промышленность
+3425;metsakorraldus;управление лесным хозяйством
+3426;metsakahjur;лесной вредитель
+3431;metsatooted;производство лесопродукции
+3432;metsasaadus;лесопродукция
+3435;metsakaitseala;лесной заповедник
+3437;metsavarude hindamine;оценка лесных ресурсов
+3438;metsavaru;лесные ресурсы
+3439;metsandus;лесное хозяйство
+3440;metsamajanduse ökonoomika;экономика лесного хозяйства
+3444;metsakasvatus;лесоводство
+3455;riigivorm;форма государственного правления
+3469;neljataktiline mootor;четырехтактный двигатель
+3474;raamseadustik;рамочное законодательство
+3481;kaubavedu;фрахтовый транспорт
+3483;freoon;фреон
+3485;magevesi;пресная вода
+3487;mageveebioloogia;биология пресной воды
+3489;mageveeökosüsteem;пресноводная экосистема
+3491;mageveeseire;мониторинг пресных вод
+3492;mageveeorganismid;пресноводный организм
+3493;mageveereostus;загрязнение пресной воды
+3494;mageveevaru;пресноводные ресурсы
+3495;konn;лягушка
+3499;puuviljandus;выращивание фруктов
+3502;viljapuu;фруктовое дерево
+3505;kütus;топливо
+3506;kütuselisand;топливная добавка
+3507;küttealkohol;топливный спирт
+3509;kütuse koostis;состав топлива
+351;alternatiivtehnoloogia;альтернативная технология
+3510;kütusekulu;потребление топлива
+352;alumiiniumoksiid;глинозем
+3521;fumigatsioon;фумигация
+3522;sihtotstarbeline aine;функциональность
+3524;mulla talitlus;функция почвы
+3528;seened;мицеты
+3529;seen;грибы
+353;alumiinium;алюминий
+3533;karusnahk;мех
+3536;furaan;фуран
+3538;ahi;техническая печь
+3539;mööbel;мебель
+354;alumiiniumnõu;алюминиевый контейнер
+3540;mööblitööstus;производство мебели
+3542;köösneritöökoda;торговля пушниной
+3548;kanalised;куриные
+355;alumiiniumisisaldus;содержание алюминия
+3559;aed;сад
+356;alumiiniumitööstus;алюминиевая промышленность
+3562;aiajäätmed;растительные отходы сада
+3564;gariig;гаррига
+3566;gaas;газ
+3567;gaaskromatograafia;газовая хроматография
+3570;gaasifirma;газовая компания
+3571;gaasimootor;газовый двигатель
+3572;gaasiline õhusaaste;газообразный загрязнитель воздуха
+3577;gaasiline olek;газообразное состояние
+3578;gaasikäitlus;обработка газа
+3581;gaasistamine;газификация
+3582;gaasi veeldamine;сжижение газа
+3585;gaasisegu;газовая смесь
+3586;gaasivõrk;газопроводная система
+3587;gasohol;бензоспирт
+3589;bensiinimootor;бензиновый двигатель
+3594;gaasipuhastus;газоочистка
+3595;kütuseauru püüdesüsteem;газоуловительная система
+3596;gaasihoidla;газохранилище
+3599;gaasivarustus;запасы газа
+36;kudedesse ladestumine;накопление в тканях тела
+360;alveool;альвеола
+3604;gaasivabrik;газовый завод
+3611;sooeristus;вопросы пола
+3613;geenipank;банк генов
+3614;üldhaldusakt;приказ общего административного характера
+3615;üldkeemia;общая химия
+3617;geen;ген
+3620;geneetiline mitmekesisus;генетическое разнообразие
+3621;geneetiline toime;генетический эффект
+363;amalgaam;амальгама
+3630;geneetiline hälve;изменение генов
+3632;geneetiline ressurss;генетический ресурс
+3633;geneetika;генетика
+3634;geneetiline muutus;генетическая вариация
+3638;geodeesia;геодезия
+3640;geogeenne tegur;почвенный фактор
+3647;geoloogiline katastroof;геологическое бедствие
+3648;geoloogiline protsess;геологический процесс
+3650;geoloogia;геология
+3652;geomorfoloogiline protsess;геоморфический процесс
+3654;geomorfoloogia;геоморфология
+3655;geofüüsika;геофизика
+3657;geotehnoloogia;геотехнология
+3661;mikroob;микроб
+3663;idanemine;прорастание
+3664;iduplasma;зародышевая плазма
+367;Ameerika;Америка
+3673;liustik;ледник
+3678;klaas;стекло
+3681;klaasitööstus;стекольная промышленность
+3686;globaalaspekt;глобальный аспект
+3690;maailmamudel;глобальная модель
+3694;seletussõnastik;глоссарий
+3695;liim;клей
+3698;eraettevõtluse eesmärk;цель деятельности хозяйствующей единицы
+3701;golf;гольф
+3705;hea juhtimine;правильный менеджмент
+3712;valitsuse nõuandeorgan;консультативный орган при правительстве
+3714;valitsushoone;правительственное здание
+3717;valitsuse vastutus;ответственность правительства
+3718;valitsuse poliitika;политика правительства
+372;amiin;амин
+3721;teravili;зерно
+3729;heintaimed;травы
+373;aminohape;аминокислота
+3730;rohtlatulekahju;травяные пожары
+3732;rohutirts;кузнечик
+3733;rohumaa;пастбищные угодья
+3734;rohumaaökosüsteem;экосистема лугов и пастбищ
+3738;kruus;гравий
+3748;karjatamine;пастбище
+375;ammoniaak;аммиак
+3760;katmikaiandus;парниковое хозяйство
+3761;kasvuhooneefekt;парниковый эффект
+3766;haljasväetis;трава как удобрение
+3771;köögivili;зеленый овощ
+3774;jahvatamine;измельчение
+3777;rahvamajanduse kogutoodang;валовый национальный продукт
+378;ammonifikatsioon;аммонификация
+3780;põhjavesi;подземные воды
+3781;põhjaveevõtt;добыча подземных вод
+3784;põhjavee reostamine;загрязнение подземных вод
+3785;põhjaveekaitse;защита подземных вод
+3788;rühmakäitumine;поведение групп населения
+379;ammoonium;аммоний
+3800;merelaht;залив
+3805;paljasseemnetaim;голосеменные
+3806;kips;гипс
+3812;rahe;град
+3815;poolestusaeg;период полураспада
+3817;haloform;галоформ
+3819;halogeenitud difenüül;галогенизированный бифенил
+3820;halogeenitud süsivesinik;галогенизированный углеводород
+3822;halogeene sisaldav reoaine;галогенизированное загрязняющее вещество
+3823;halogeenitud terfenüül;галогенизированный терфенил
+3828;käsitööndus;кустарное производство
+3830;käsitöö;ручная работа
+3834;sadam;бухта
+3837;kõvadus;твердость
+3842;reoveereostus;загрязнение сточными водами
+3847;seaduste ühtlustamine;гармонизация права
+3852;oht;опасность
+3854;ohtlik aine;опасное вещество
+3857;ohtlike jäätmete prügila;свалка опасных отходов
+3858;ohtlikud jäätmed;опасные отходы
+3859;ohtlik töömaterjal;опасный рабочий материал
+3865;tervis;здоровье
+3866;tervishoid;здравоохранение
+3871;tervishoiuasutus;учреждение здравоохранения
+3872;terviseoht;опасность здоровью
+3877;tervisekaitse;защита здоровья
+388;lõbustuspark;парк развлечений
+3880;tervishoiuotstarbeline biotehnoloogia;биотехнология в области здоровья
+3881;tervishoiuteenistus;услуги здравоохранения
+3884;kuulmiskahjustus;потеря слуха
+3885;ülekuulamine;процедура слушания
+3886;kõrvakaitse;защита слуха
+3891;koostootmisjaam;теплоэлектростанция
+3893;nõmm;вересковые пустоши
+3900;küttekatlamaja;теплостанция
+3904;soojuspump;тепловой насос
+3906;soojuse salvestamine;хранение тепла
+3907;soojusvarustus;обеспечение теплом
+391;anaeroobne seisund;анаэробные условия
+3911;raskeveokiliiklus;крупнотоннажный грузовой автотранспорт
+3914;raskmetallikoormus;загрязнение тяжелыми металлами
+3915;raskmetall;тяжелый металл
+3917;hekk;живая изгородь
+3933;herbitsiid;гербицид
+3937;heterotsükliline ühend;гетероциклическое вещество
+394;anaeroobne protsess;анаэробный процесс
+3945;kõrgharidus;высшее образование
+3947;kõrgmaaökosüsteem;экосистемы высокогорий
+3949;kõrge mägi;высокая гора
+3954;kõrghoone;высотное здание
+3955;kiirraudtee;высокоскоростная железная дорога
+3956;kiirrong;скоростной поезд
+3958;tõusukõrgvesi;уровень прилива
+3960;kõrgepingeliin;высоковольтная линия
+3963;maantee;шоссе
+3966;küngas;холм
+397;analüüs;анализ
+3971;ajaloomälestis;эволюция в процессе истории
+3974;ajalooline areng;исторический памятник
+3975;ajaloouuring;исследование истории
+3977;ajalooline paik;историческое место
+398;analüüsiprogramm;программа анализа
+3983;ajalugu;история
+3984;puhkelaager;место отдыха
+3986;puhkus;отпуск
+399;analüütiline keemia;аналитическая химия
+3995;hobune;лошадь
+3998;aiandus;огородничество
+3999;haigla;больница
+4002;haiglajäätmed;отходы больниц
+4008;hotellindus;гостиничная индустрия
+4009;kuum vesi;горячая вода
+401;analüüsiaparatuur;аналитическое оборудование
+4015;majapidamine;семья
+4016;majapidamiskemikaal;бытовой химикат
+4018;majapidamiskaubad;бытовые товары
+402;analüütiline meetod;аналитический метод
+4022;elamispind;дома и жилищное строительство
+4027;asustustihedus;плотность городской застройки
+4029;eluasemefinantseerimine;финансирование жилищного строительства
+4030;elamistingimuste parendamine;улучшение качества жилища
+4034;korterivajadus;потребность в жилище
+4037;elamuehituskava;программа жилищного строительства
+4039;elamukvaliteedinormid;стандарт качества жилища
+4040;seadme taastamine;ремонт технических установок
+4046;inimeste haigus;болезни человека
+4051;inimtervis;здоровье человека
+4054;inimpatoloogia;патология человека
+4055;inimfüsioloogia;физиология человека
+4056;inimpopulatsioon;население
+406;anatoomia;анатомия
+4060;inimõigused;гражданские права
+4062;inimasula;населенный пункт
+4065;asulamajandus;управление населенными пунктами
+4070;huumus;гумус
+4073;jahikaitseala;охотничий заказник
+4077;orkaan;ураган
+4080;hübridiseerimine;гибридизация
+4082;vesiehitis;гидравлическая конструкция
+4084;vesiehitus;строительство гидросооружений
+4085;hüdraulika;гидравлика
+4088;hüdrobioloogia;гидробиология
+4091;süsivesinik;углеводород
+4095;hüdropoonika;гидрокультура
+4098;hüdroelektrijaam;гидроэлектростанция
+4103;vesinik;водород
+4108;hüdrogeoloogia;гидрогеология
+4109;hüdrograafia;гидрография
+4111;veekatastroof;гидрологическое бедствие
+4115;veebilanss;гидрологический баланс
+4116;veeringe;гидрологический цикл
+4118;hüdroloogia;гидрология
+4119;hüdrolüüs;гидролиз
+4120;hüdrometeoroloogia;гидрометеорология
+4124;hüdrosfäär;гидросфера
+4126;hügieen;гигиена
+4131;jää;лед
+4132;jäämägi;айсберг
+4133;paakjää;паковый лед
+4136;reoainete kindlaksmääramine;идентификация загрязняющих веществ
+4137;ideoloogia;идеология
+4140;pilditöötlus;обработка изображений
+4143;loomastiku risustumine;вырождение фауны
+4144;taimestiku risustumine;вырождение флоры
+4146;immissioon;иммиссия
+4147;immissioonikontroll;контроль за иммиссией
+4149;immissioonikahjustus;ущерб в результате иммиссии
+415;loomade käitumine;поведение животных
+4150;immissiooniprognoos;прогноз иммиссии
+4151;immisioonipiirväärtus;лимит иммиссии
+4152;immissioonikoormus;иммиссионная нагрузка
+4154;immuunsüsteem;иммунная система
+4155;immuunsus;иммунитет
+4157;immunoloogiline haigus;иммунологическое заболевание
+4158;immunoloogia;иммунология
+4160;mõju minimeerimine;минимизация отрицательного воздействия
+4163;mõjuallikas;источник отрицательного воздействия
+417;loomahaigus;болезни животных
+4171;vaesumine;обнищание
+4172;immutusaine;пропитывающее вещество
+4176;kasuteguri suurendamine;повышение эффективности
+4178;impulssmüra;импульсные помехи
+4182;põletamine;сжигание
+4186;nõlv;склон
+4187;sissetulek;доход
+4189;inkorporeerimine;объединение
+4194;hüvitis;компенсация
+4195;India ookean;Индийский океан
+4196;indikaator;показатель
+42;happesadenemine;кислотные осадки
+420;loomaökoloogia;экология животных
+4204;looduslik mets;автохтонные леса
+4206;kaudheiteallikas;скрытый источник стоков
+421;loomkatse;эксперименты над животными
+4211;ruumikeskkond;окружающая среда помещений
+4213;tööstuspiirkond;промышленный район
+4216;tööstusettevõtete liit;промышленная ассоциация
+4217;tööstushoone;производственное здание
+4224;tehniline kultuur;промышленная культура
+4226;tööstuse areng;промышленное развитие
+4227;tööstusjäätmete ladestamine;сброс промышленного мусора
+4228;tööstusökonoomika;экономика промышленности
+4229;tööstusreovesi;промышленные стоки
+423;loomasööt;корм для животных
+4231;tööstusheide õhku;газообразные промышленные выбросы
+4234;tööstusseadmed;промышленное оборудование
+4238;tööstustoss;промышленный дым
+4242;tööstusseade;промышленная установка
+4244;industrialiseerimine;индустриализация
+4249;tööstusmaterjal;промышленный материал
+425;loomageneetika;генетика животных
+4250;töötervishoid;производственная медицина
+4251;tööstusmüra;промышленный шум
+4253;tööstuse planeerimine;промышленное планирование
+4255;tööstuspoliitika;промышленная политика
+4257;tööstusprotsess;промышленный процесс
+4258;tööstustoodang;промышленное производство
+4259;tööstustoodangustatistika;статистика промышленного производства
+4260;tööstustoode;промышленный продукт
+4262;tööstusomandiõigus;права на промышленную собственность
+4267;tööstuskrunt;промышленная площадка
+4273;tööstusjäätmed;промышленные отходы
+4274;tööstusheitgaas;газообразные промышленные отходы
+4276;tööstusreovesi;сточные промышленные воды
+4278;tööstuse tsoneerimine;промышленное районирование
+4279;tööstus;промышленность
+428;loomapidamishoone;кров для животных
+4282;jäätmete püsivaks muutmine;инертизация
+4284;laste suremus;детская смертность
+4288;nakkushaigus;инфекционное заболевание
+4289;põllukahjurirünne;инвазия посевов сельскохозяйственных культур
+429;loomakasvatus;животноводство
+4296;tuleohtlik aine;легковоспламеняющееся вещество
+4301;mitteametlik läbirääkimine;неформальные переговоры
+4302;informaatika;информатика
+4311;infosüsteem;информационная система
+4313;infotehnoloogia;информационная технология
+4317;infrapunakiirgus;инфракрасное излучение
+432;loomasõnnik;навоз
+4320;infraheli;инфразвук
+4321;infrastruktuur;инфраструктура
+4325;vigastus;повреждение
+4326;tint;чернила
+4333;sisevesi;внутренние водоемы
+4342;anorgaaniline keemia;неорганическая химия
+4347;anorgaaniline reoaine;неорганическое загрязняющее вещество
+435;loomade toitumine;питание животных
+4350;anorgaaniline aine;неорганическое вещество
+4358;putukas;насекомое
+4360;ülevaatus;инспекция
+4361;raamatupidamisrevisjon;проверка записей
+4362;inspektsioon;инспекционная служба
+4365;institutsionaliseerimine;институционализация
+4369;aparaadiehitus;производство инструментов
+437;loomafüsioloogia;физиология животных
+4375;kindlustustegevus;страховой бизнес
+4376;kindlustuskate;действие страховки
+4378;loodusreservaat;комплексный природный заповедник
+4390;intensiivloomakasvatus;интенсивное животноводство
+4391;intensiivpõllumajandus;интенсивное фермерское хозяйство
+4395;pestitsiidide koostoime;взаимодействие пестицидов
+4398;elektrooniline andmevahetus;обмен электронными данными
+44;hapestumine;подкисление
+4401;intress;банковский процент
+4402;huvirühm;группа по интересам
+4404;esialgne otsus;промежуточное решение
+4408;laboritevaheline võrdlus;внутрилабораторные сравнения результатов исследований
+441;loomakasvatus;производство животноводческой продукции
+4410;pooltooted;полуфабрикаты
+4412;vahelduv müra;прерывистый звук
+4414;Euroopa siseturg;внутренний европейский рынок
+4417;rahvusvaheline leping;международное соглашение
+4419;rahvusvaheline konkurentsivõime;международная конкурентоспособность
+442;loomakasvatussaadus;животноводческая продукция
+4420;rahvusvaheline konventsioon;международная конвенция
+4421;rahvusvaheline koostöö;международное сотрудничество
+4422;Rahvusvaheline Kohus;Международный Суд
+4423;rahvusvaheline jaotus;международное распределение
+4424;rahvusvaheline tööjõujaotus;международное разделение труда
+4429;rahvusvaheline ühtlustamine;международная гармонизация
+443;loomakaitseala;защита животных
+4430;rahvusvaheline õigus;международное право
+4432;rahvusvaheliselt tähtis ökosüsteem;экосистема международного значения
+4434;rahvusvaheline organisatsioon;международная организация
+4436;rahvusvaheline poliitika;международная политика
+4438;rahvusvahelised suhted;международные отношения
+4440;rahvusvaheline jõevalgla;международный речной бассейн
+4441;rahvusvaheline julgeolek;международная безопасность
+4442;rahvusvaheline standardimine;международная стандартизация
+4444;rahvusvaheline kaubandus;международная торговля
+4448;rahvusvaheline vooluveekogu;международный водный путь
+445;loomavarud;животные ресурсы
+4454;loodetevöönd;зона приливов и отливов
+4466;varaloend;опись
+4474;inversioonikiht;инверсионный слой
+4478;investeering;инвестиция
+448;tapaloom;животные для забоя
+4483;jood;йод
+4485;ioonivahetus;ионный обмен
+449;loomavarjualune;помещения для содержания животных
+4491;ioniseeriv kiirgus;ионизирующее излучение
+4492;ionosfäär;ионосфера
+4493;ioon;ион
+4498;raud;железо
+450;loom;животное
+4501;rauatööstus;черная металлургия
+4503;malmivalutööstus;производство чугуна
+4504;kiiritus;облучение
+4505;niisutus;ирригация
+4507;niisutuskanal;ирригационный канал
+4509;niisutusmaaviljelus;ирригационное земледелие
+451;loomne riidekiud;текстильное волокно животного происхождения
+4514;saar;остров
+4515;saareökosüsteem;островная экосистема
+4519;isomeer;изомер
+452;loomakaubandus;торговля животными
+4523;isotoop;изотоп
+453;loomakasvatusjäätmed;отходы животноводства
+4530;solidaarvõlgnik;коллективный должник
+4534;õigusabi;судебная помощь
+4535;kohtuorgan;судебный орган
+4538;kohtupidamist reguleeriv norm;правила судопроизводства
+454;anioon;анион
+4543;õigusteadus;юриспруденция
+4545;karst;карст
+4548;varu täiendamine;пополнение запасов
+456;rõngasuss;кольчатые черви
+4571;laborivarustus;лабораторный эксперимент
+4574;laboritehnika;лабораторный метод
+4575;laborijäätmed;отходы лабораторий
+4577;töö;труд
+458;antagonism;антагонизм
+4580;tööõigus;трудовое право
+4584;töösuhted;трудовые отношения
+4586;lakk;лак
+4589;laguun;лагуна
+4590;järvenõgu;озерный бассейн
+4593;järvereostus;загрязнение озер
+4594;järv;озеро
+4597;lamp;лампа
+4599;maa;земля
+460;mürgiste ühendite antagonism;антагонистический эффект токсичных веществ
+4600;teeservituut;землепользование
+4602;maa  kruntimine;отвод земельных участков
+4607;maa kasutustaluvus;экологическая емкость земли
+4609;raadamine;расчистка земель
+461;Antarktis;Антарктика
+4610;maahooldus;сохранение земель
+4611;maa massiivistamine;укрупнение земель
+4612;maapinnakate;земляной покров
+4614;kinnisvara arendamine;развитие земель
+4615;maismaaökoloogia;экология земли
+4621;prügila;мусорная яма
+4623;prügila katmine;засыпка мусорной ямы
+4625;prügilagaas;биогаз
+4628;maaüksuste formeerimine;формирование земель
+4629;pinnavorm;форма земной поверхности
+463;antarktiline ökosüsteem;экосистема Антарктики
+4632;maismaaimetaja;сухопутное млекопитающее
+4633;maa hõlvamine;расселение на суше
+4635;maa planeerimine;планирование земель
+4641;maaparandus;мелиорация земель
+4644;maakataster;регистр земель
+4646;maa tervendamine;рекультивация земель
+4648;maastik;ландшафт
+465;Antarktika;Антарктический регион
+4650;maastikukujundus;изменение ландшафта
+4651;maastikuarhitektuur;ландшафтная архитектура
+4652;maastikuelement;компонент ландшафта
+4653;maastikuhoid;сохранение ландшафта
+4654;maastikukaitsepoliitika;политика сохранения ландшафта
+4657;maastikuökoloogia;экология ландшафта
+4658;maastikuhooldus;управление ландшафтом
+4659;maastikuplaneerimine;планирование ландшафта
+4660;maastikukaitse;защита ландшафта
+4663;maastikukasutus;использование ландшафта
+4666;maakasutuse planeerimine;региональное планирование
+4668;maalihe;оползень
+4676;maismaavedu;сухопутный транспорт
+4678;maakasutus;землепользование
+468;inimtegevus;деятельность человека
+4680;maakasutuse liigitus;классификация землепользования
+4684;maakasutusviis;режим использования земли
+4686;maa väärtus;цена земли
+4698;laser;лазер
+47;happesus;кислотность
+470;inimtegur;антропогенный фактор
+4702;pesupesemine;прачечные
+4708;seadusemuutus;изменение закона
+471;antropoloogiline kaitseala;антропологический заповедник
+4710;seaduse rakendamine;приведение в исполнение закона
+4722;leostumine;выщелачивание
+4723;plii;свинец
+4724;pliiühend;соединение свинца
+4725;pliireostus;загрязнение свинцом
+4728;vere pliisisaldus;уровень свинца в крови
+473;antibiootikum;антибиотик
+4738;nahatööstus;кожевенная промышленность
+474;antikeha;антитело
+4744;õigusabinõu;юридическое средство
+4746;juriidiline tekst;юридический текст
+475;ohuennetus;ожидание опасности
+4759;seadusandja;полномочие на законодательную деятельность
+4760;juriidiline kompetents;законодательная правоспособность
+4764;seadusandlik võim;законодательная власть
+4767;vabaajategevus;отдых
+4771;vaba aeg;время отдыха
+4782;leukeemia;лейкемия
+4785;leksikon;лексикон
+4787;vastutus;ответственность
+4788;vastutus mereõnnetuste eest;ответственность за морские инциденты
+4789;vastutus tuumakahjustuste eest;ответственность за ядерные аварии
+4793;raamatukogu;библиотека
+4796;litsentsima;лицензирование
+4797;litsentsimisprotseduur;процедура лицензирования
+4798;litsentsikohustus;обязательное лицензирование
+4799;samblik;лишайник
+48;happesusaste;уровень кислотности
+4810;valgus;свет
+4814;valgustus;освещение
+4819;pruunsöe kaevandamine;добыча лигнита
+4820;lubi;известь
+4823;lubjakivi;известняк
+4828;piirväärtus;предельная величина
+4832;joonmüraallikas;линейный источник звука
+4834;vooderdusmaterjal;гидроизоляционный материал
+4835;joonsaasteallikas;линейный источник
+4840;vedelgaas;сжиженный газ
+4844;vedel olek;состояние жидкости
+4845;vedeljääde;жидкие отходы
+4850;kirjandus;литература
+4851;kirjandusandmepank;литературный банк данных
+4852;kirjanduse hindamine;оценка литературы
+4853;kirjandusallikate läbitöötamine;исследование литературы
+4855;litosfäär;литосфера
+4857;allapanu;подстилка для скота
+4863;tõuaretus;разведение домашнего скота
+4866;elamistingimused;условия жизни
+4867;mere elusvarad;морские биоресурсы
+4868;eluruum;жизненное пространство
+4871;sisalik;ящерица
+4873;koormustaluvus;допустимая нагрузка
+4879;kohalik võim;местная власть
+488;korterelamu;многоквартирный жилой дом
+4884;kohalik finantseerimine;финансирование на местном уровне
+4885;kohalik omavalitsuspoliitika;политика местных властей
+4886;kaugküte;теплоснабжение
+4888;kohalik ehitusmaterjal;местный строительный материал
+4889;kohalik sõitjatevedu;местный пассажирский транспорт
+4891;kohalik liiklus;местный транспорт
+4893;tööstusettevõtete paiknemine;размещение предприятий
+4897;vedur;локомотив
+490;mesindus;пчеловодство
+4902;kaugliiklus;движение транспорта дальнего следования
+4903;kaugvedu;транспорт дальнего следования
+4908;kestuskatse;долгосрочный эксперимент
+4914;kadu;убыток
+4916;biotoobikadu;потеря биотопа
+4917;valjus;громкость
+4918;odavad elamud;низкозатратное жилищное строительство
+492;edasikaebus;апелляция
+4920;esindajatekoda;Нижняя Палата
+4929;madallend;полет на малой высоте
+493;apellatsioonimenetlus;процедура апелляции
+4931;lihttehnoloogia;технология низкого уровня
+494;rakendusökoloogia;прикладная экология
+4942;leelis;щелок
+4945;lümfisüsteem;лимфатическая система
+4948;lüsimeetria;лизиметрия
+495;rakenduslik toitumisteadus;прикладная диететика
+4952;masinaehitus;производство машин и механизмов
+4956;makromajanduslik eesmärk;макроэкономическая цель
+496;rakendusteadus;прикладная наука
+4964;magnetlint;магнитная лента
+4965;magnetism;магнетизм
+4967;meililist;список для рассылки
+4969;keskkonnahooldus;сохранение окружающей среды
+4971;suurõnnetus;крупная авария
+4974;malaaria;малярия
+4979;alatoitlus;недоедание
+498;alternatiivtehnoloogia;приемлемая технология
+4982;imetaja;млекопитающее
+4987;haldusleping;контракт на управление
+4988;loodusvarade haldamine;управление природными ресурсами
+4990;halduskava;план управления
+4994;mandaat;мандат
+4999;mangroovsoo;мангровое болото
+5003;inimese ja looduse suhe;взаимосвязь человека и природы
+5004;tööjõud;рабочая сила
+5005;tootmine;производственная деятельность
+5009;väetisetootmine;производство навоза
+5013;kaardistamine;картография
+5014;samblike kaardistamine;составление карт лишайников
+5018;marmor;мрамор
+5023;marginaalmaa;маргинальная земля
+5024;meriviljelus;морская культура
+5027;merebioloogia;морская биология
+5029;merekaitse;морская охраняемая зона
+503;veeloom;водное животное
+5030;mereökoloogia;экология моря
+5031;mereökosüsteem;морская экосистема
+5033;merekeskkond;морская окружающая среда
+5034;mereloomastik;морская фауна
+5035;merekalapüük;морская рыбная ловля
+5038;meregeoloogia;морская геология
+504;veekogude ökoloogia;экология водной среды
+5042;mereseire;мониторинг моря
+5043;mereorganism;морской организм
+5044;merereostus;загрязнение моря
+5046;merekaitseala;морской заповедник
+5048;merevarade kaitse;сохранение морских ресурсов
+5049;meresete;морское отложение
+5051;mereõigus;морское право
+5052;meresõit;морская навигация
+5057;märkaine;меченый атом
+5058;turg;рынок
+5061;turumajandus;рыночная экономика
+5062;turutüüp;организация рынка
+5064;turundus;маркетинг
+5076;kukruline;сумчатые
+508;veeimetaja;водное млекопитающее
+5080;hulgavirgestus;массовый отдых
+5086;materjal;материал
+5088;ainebilanss;баланс материи
+5090;materjali olelusiga;жизненный цикл материала
+5094;materjalide katsetamine;испытание материалов
+5097;matemaatiline analüüs;математический анализ
+5099;matemaatiline meetod;математический метод
+51;happevihm;кислотный дождь
+510;veemikroob;водный микроорганизм
+5108;immissiooni piirmäär;максимальная концентрация иммиссии
+5116;veovahend;транспортное средство
+5119;mõõtmine;измерение
+5122;mõõtmismeetod;метод измерений
+5124;liha;мясо
+5135;arstiteadus;медицинская наука
+5138;ravimtaim;лекарственное растение
+5144;meditsiin;медицина
+5145;Vahemerepiirkond;средиземноморский регион
+5152;psüühiline toime;воздействие на умственную деятельность
+5154;elavhõbe;ртуть
+5155;elavhõbesaastus;загрязнение ртутью
+516;vesivirgestusrajatis;восстановительный отдых на воде
+5163;pestitsiidimetabolism;метаболизм пестицидов
+5167;metainformatsioon;метаинформация
+5169;metalliviimistlus;обработка металлов
+5171;metallimaak;металлосодержащий минерал
+5175;metallurgiatööstus;металлургия
+5178;metalloksiid;оксид металла
+5179;metallkattekiht;гальванотехника
+5180;metallsaadus;металлический продукт
+5181;metallsaadusetööstus;производство металлических изделий
+5184;metall;металл
+5186;metallisulatus;выплавка металла
+5194;ilmaennustus;метеорологический прогноз
+5195;ilmastikutegur;метеорологический параметр
+5196;ilmastikunähtus;метеорологический феномен
+5197;meteoroloogia;метеорология
+5199;metaan;метан
+52;hape;кислота
+5203;metodoloogia;методология
+521;põllundus;земледелие
+5215;mikroobivaramu;микробный ресурс
+5216;mikrobioloogiline analüüs;микробиологический анализ
+5218;mikrobioloogia;микробиология
+5219;mikrokliima;микроклимат
+5220;mikrokliima mõju;микроклиматический эффект
+5221;mikroklimatoloogia;микроклиматология
+5222;mikroarvuti;микрокомпьютер
+5224;mikroökosüsteem;микроэкосистема
+5225;mikroelektroonika;микроэлектроника
+5226;mikrofiltrimine;микрофильтрация
+5230;mikroskoopia;микроскопия
+5231;mikrolaine;микроволна
+5234;rändtööjõud;мигрирующая рабочая сила
+5236;inimränne;миграция людей
+5237;loomaränne;миграция животных
+5238;rändlind;мигрирующая птица
+5239;rändliik;мигрирующие виды
+5241;militaaraspektid;военные аспекты
+5243;sõjategevus;военные действия
+5245;kaitseõhusõidukite liiklus;движение военного воздушного транспорта
+5253;sõjaväepiirkond;военная зона
+5254;piim;молоко
+5258;veski;мельница
+5261;kaevandus;шахта
+5262;kaevandusala täitmine;сброс отходов в шахты
+5264;maardla;месторождение полезных ископаемых
+5265;mineraalide kaevandamine;добыча полезных ископаемых
+5267;mineraalkiud;минеральное волокно
+5268;mäetööstus;горнодобывающая промышленность
+5269;mineraliseerumine;минерализация
+527;puuviljelus;древоводство
+5270;mineraloogia;минералогия
+5274;maavarad;минеральный ресурс
+5277;mineraalne pinnasestabilisaator;минерал
+5279;mineraalvesi;минеральная вода
+5282;miinimumkuluplaanimine;низкозатратное планирование
+5283;kahju minimeerimine;минимизация ущерба
+5286;kaevanduspiirkond;район горных разработок
+5288;kaevandusgeoloogia;геология рудных месторождений
+5289;mäetööstus;горная промышленность
+529;arheoloogiline ala;археологическая площадка
+5297;kaevandamisjäätmed;шахтные отходы
+5298;ministeeriumi määrus;приказ министерства
+5299;ministeerium;министерство
+530;arheoloogia;археология
+5303;vähemus;меньшинство
+5305;segatoode;неоднородный продукт
+5307;segunevus;способность к смешиванию
+531;saarestik;архипелаг
+5310;lestaline;клещ
+5313;segapõllumajandus;смешанное фермерское хозяйство
+5317;maa segakasutusala;земля различного хозяйственного назначения
+5318;segamine;смешивание
+5322;haagiselamu;передвижной дом
+5325;mudel;модель
+5332;niiskus;влага
+5333;molekulaarbioloogia;молекулярная биология
+5343;rahaline hindamine;финансовая оценка
+5346;seire;мониторинг
+5347;seirekriteerium;критерий мониторинга
+5348;seireandmed;данные мониторинга
+5349;seireseadmed;оборудование для мониторинга
+5350;seirevõrk;сеть станций мониторинга
+5352;seirejaam;станция мониторинга
+5353;seiresüsteem;система мониторинга
+5354;seiretehnika;приемы мониторинга
+5357;monopol;монополия
+5362;nõmmraba;заболоченная местность
+5364;moraalne veenmine;моральное убеждение
+5371;suremus;смертность
+5377;sammal;мох
+538;arhitektuur;архитектура
+5384;mootorratas;мотоцикл
+5388;mootorikütus;моторное топливо
+5390;mootorsõiduk;автомобиль
+5391;mootorsõidukiheitmed;автомобильные выхлопы
+5392;mootorsõiduki heitgaas;выхлопные газы автомобилей
+5393;mootorsõidukitööstus;автомобильная промышленность
+5395;kiirtee;шоссе
+5401;mägi;гора
+5403;mägiökosüsteem;горная экосистема
+5404;mägironimine;альпинизм
+5405;mägismaa;горный район
+5409;mäeahelik;горный хребет
+541;arktiline ökosüsteem;экосистема Арктики
+5412;niitmine;скашивание трав
+5415;mudarand;илистый участок
+5418;multš;мульча
+5419;mitmepoolne leping;многостороннее соглашение
+542;Põhjajäämeri;Северный Ледовитый океан
+5421;hargmaine firma;многонациональная компания
+5428;linnapuhastus;муниципальная уборка
+5429;linnapuhastusteenistus;муниципальные услуги по уборке
+543;Arktika;Арктический регион
+5431;vald;муниципалитет
+5432;munitsipaalõigus;муниципальный закон
+5433;kohalik tasand;муниципальный уровень
+5437;olmejäätmed;городские отходы
+5439;olmeveevärk;городская система водопровода
+5440;asula veemajandus;городская система управления водоснабжением
+5443;lihaskond;мышечная система
+5444;muuseum;музей
+5448;seen;гриб
+5449;muusika;музыка
+5450;karbikasvatus;разведение моллюсков
+5452;kärplane;куница
+5456;mutageensus;способность вызывать мутацию
+5459;mutageen;мутаген
+5460;mutant;мутант
+5461;mutantsete mikroorganismide vallapäästmine;выброс мутированных микроорганизмов
+5462;mutatsioon;мутация
+547;reostuskahtlane paik;ареал потенциального загрязнения
+5475;rahvamajandus;национальная экономика
+5478;kultuurikaup;товары культурного назначения
+5482;riiklikud õigusaktid;национальное законодательство
+5484;rahvuspark;национальный парк
+5486;riiklik planeerimine;национальное планирование
+5489;loodusreservaat;национальный заповедник
+5494;loodusmaistu;природная зона
+5496;loodusõnnetus;стихийное бедствие
+5497;looduslik äravooluvõrk;естественная система дренажа
+5498;looduskeskkond;естественная окружающая среда
+55;heliisolatsioon;звукоизоляция
+5500;looduslik väetis;природное удобрение
+5501;looduslik kiud;волокно природного происхождения
+5502;looduslik mets;естественный лес
+5503;maagaas;природный газ
+5504;maagaasiuuring;разведка природного газа
+5506;loodusoht;опасность стихии
+5507;looduspärand;природное наследие
+5508;loodusseadused;закон природы
+5510;looduslik materjal;природный материал
+5511;loodusmälestis;памятник природы
+5513;looduspark;природный парк
+5518;looduslik radioaktiivsus;естественная радиоактивность
+5520;loodusvarakaitse;сохранение природных ресурсов
+5521;loodusvara;природный ресурс
+5523;loodusmaastik;естественная среда
+5524;loodusteadus;естественная наука
+5529;looduskivi;природный камень
+5530;looduslik väärtus;природная ценность
+5537;looduskaitse;сохранение природы
+5544;looduskaitse;защита природы
+5545;loodusreservaat;природный заповедник
+5547;iiveldus;тошнота
+5550;laevasõiduoht;опасность при навигации
+5554;nekroos;некроз
+5559;paikkonna arenduskava;программа обустройства городского района
+556;relvastus;вооружение
+5569;närvisüsteem;нервная система
+557;relvastuse muutmine;конверсия вооружений
+5571;loodusvarade kahanemine;сокращение ресурсов
+5575;neurotoksilisus;нейротоксичность
+558;relvajõud;вооруженные силы
+5580;uus ühiskond;новое сообщество
+5581;uus seade;новая установка
+5583;uus materjal;новый материал
+5585;uus tehnoloogia;новая технология
+5589;nikkel;никель
+5593;nitraat;нитрат
+5598;nitrifikatsioon;нитрификация
+560;aromaatne ühend;ароматические соединения
+5601;nitrit;нитрит
+5604;nitroühend;нитросоединение
+5605;lämmastik;азот
+5607;lämmastikuringe;азотный цикл
+5608;lämmastikdioksiid;диоксид азота
+5613;lämmastikoksiidid;оксиды азота
+5618;nitrosoamiin;нитрозамин
+562;aromaatne süsivesinik;ароматический углеводород
+5624;müra;шум
+5626;müratõrje;снижение уровня шума
+5629;müraanalüüs;анализ шума
+5631;müratõrje;контроль за уровнем шума
+5633;mürahäiring;шумовое раздражение
+564;lõhnaaine;ароматическое вещество
+5640;müraimmissioon;иммиссия шума
+5644;müratase;уровень шума
+5646;müra mõõtmine;измерение шума
+5648;müraseire;мониторинг шума
+5650;mürakoormus;шумовое загрязняющее вещество
+5653;mürakaitse;защита от шума
+5654;müra vähendamine;снижение уровня шума
+5658;müraliik;тип шума
+566;pakenditagastuskorraldus;депозит за возвратную тару
+5662;nomaad;кочевник
+5666;bioloogiliselt mittelagundatav reoaine;биологически неразлагаемое загрязняющее вещество
+5667;täisehitamata ala;незастроенные районы
+5668;alternatiivenergia;нетрадиционный источник энергии
+567;arseen;мышьяк
+5671;valitsusväline organisatsioon;неправительственная организация
+5674;mitteioniseeriv kiirgus;неионизирующее излучение
+5675;mittemetallmineraal;неметаллический минерал
+5676;mittemetall;неметаллический
+568;kunst;искусство
+5686;mitteeluhoone;административное здание
+5687;ühekorrapakend;безоборотная тара
+5690;norm;норма
+5694;Atlandi ookeani põhjaosa;северная часть Атлантического океана
+5695;Vaikse ookeani põhjaosa;северная часть Тихого океана
+5701;uuendtoit;новые продукты питания
+5708;tuumaõnnetus;ядерная авария
+5712;tuumaenergia;ядерная энергия
+5714;tuumaenergia kasutamine;использование ядерной энергии
+572;lüliloomad;членистые
+5721;tuumaseade;ядерный объект
+5724;tuumkütus;ядерное топливо
+5727;tuumkütuseelement;элемент ядерного топлива
+5733;tuumafüüsika;ядерная физика
+5737;tuumajõujaama lammutamine;утилизация отходов атомной электростанции
+5741;tuumareaktsioon;ядерная реакция
+5742;tuumareaktor;ядерный реактор
+5745;tuumauurimiskeskus;центр ядерных исследований
+5746;tuumaohutus;ядерная безопасность
+5747;tuumakatse;ядерное испытание
+5750;tuumarelv;ядерное оружие
+5751;nukleiinhape;нуклеиновая кислота
+5752;häiring;раздражитель
+5756;toitekeskkond;средство питания
+5765;toitumine;питание
+5769;toidu toiteväärtus;питательная ценность продуктов
+5776;protest;возражение
+5777;teavituskohustus;обязательство информировать
+5778;märgistuskohustus;обязательство маркировать
+5781;kutsehaigus;профессиональное заболевание
+5783;kutseala;профессиональная группа
+5784;tööhügieen;профессиональная гигиена
+5785;töötervishoid;профессиональное здравоохранение
+5786;töömeditsiin;профессиональная медицина
+5787;tööohutus;профессиональная техника  безопасности
+5789;ookean;океан
+579;tehisjärv;искусственное озеро
+5791;ookeanivee ringlus;циркуляция океана
+5792;ookeanihoovus;океаническое течение
+5794;Okeaania;Океания
+5797;okeanograafia;океанография
+5799;ookeanivee temperatuur;температура океана
+5804;hais;запах
+5806;haisuhäiring;раздражающий запах
+5809;keskkonnakuritegevus;экологические преступления
+5812;ametlik arutelu;официальное слушание
+5814;tipuväline liiklemine;внепиковая маятниковая миграция
+5816;tipuväline sõitmine;внепиковые поездки
+5818;üleajatöö;внепиковый режим работы
+5823;merealune kaevandamine;шельфовое бурение
+5824;merealune naftapuurimine;шельфовое бурение нефтяных скважин
+5825;paigaväline;вне площадки или объекта
+5847;põlevkivi;нефтяной сланец
+5856;vanaprügila;заброшенная мусорная яма
+5858;aegunud seade;завод с устаревшим оборудованием
+5863;odorimeetria;ольфактометрия
+587;tehiskaaslane;искусственный спутник
+5870;onkoloogia;онкология
+5880;arvamus;мнение
+5885;seadmestiku optimeerimine;оптимизация установок
+5887;maak;руда
+5892;orgaaniline süsinik;органический углерод
+5893;orgaaniline keemia;органическая химия
+59;heliomadus;акустические свойства
+5902;orgaaniline reoaine;органическое загрязняющее вещество
+591;asbest;асбест
+5910;orgaaniline lahusti;органический растворитель
+5912;orgaaniline aine;органическое вещество
+5913;orgaanilised jäätmed;органические отходы
+5914;organism;организм
+5921;kloororgaaniline ühend;хлорсодержащее органическое соединение
+5924;halogeenorgaaniline ühend;галогенсодержащее органическое соединение
+5927;metallorgaaniline ühend;металлсодержащее органическое соединение
+5928;lämmastikorgaaniline ühend;азотсодержащее органическое соединение
+5929;hapnikorgaaniline ühend;кислородсодержащее органическое соединение
+5931;fosfororgaaniline ühend;фосфорорганическое соединение
+5935;räniorgaaniline ühend;кремнийорганическое соединение
+5936;väävelorgaaniline ühend;сероорганическое соединение
+5937;tinaorgaaniline ühend;оловоорганическое соединение
+594;asbesttsement;асбестоцемент
+5944;orograafia;орография
+5949;osmoos;осмос
+595;ASEAN;АСЕАН
+5953;kohalik virgestus;отдых в конкретной местности
+5956;pinnakate;вскрыша
+5957;üleasustus;переполнение
+5959;üleväetamine;избыточное внесение минеральных удобрений
+596;tuhk;зола
+5962;ülekarjatamine;чрезмерный выпас
+5965;ülerahvastus;перенаселенность
+5967;ümberkihistumine;циркуляция водных слоев
+5968;talvitumine;зимовка
+5971;omand;право собственности
+5972;oksüdatsioon;реакция окисления
+5976;redoksreaktsioon;снижение окисления
+5978;oksiid;оксид
+598;Aasia;Азия
+5982;hapnik;кислород
+5983;hapnikuga rikastamine;оксигенация
+5986;hapnikusisaldus;содержание кислорода
+5987;hapnikupuudus;недостаток кислорода
+5991;osoon;озон
+5993;osoonikiht;озоновый слой
+5999;pakend;упаковка
+60;akustika;акустика
+6001;pakendijäätmed;использованная упаковка
+6007;värv;краска
+6023;paber;бумага
+6026;paberitööstus;бумажная промышленность
+6033;parameeter;параметр
+6035;parasiit;паразит
+6038;parasitoloogia;паразитология
+6046;parkla;автомобильная стоянка
+6047;parkimisvõimalus;предоставление услуг парковки
+605;assimilatsioon;ассимиляция
+6055;kübemepüünis;сепаратор частиц
+6059;reisijatevedu;пассажирский транспорт
+6061;karjamaa;пастбищное угодье
+6062;pastataoline jääde;пастообразные отходы
+6065;patoloogiline toime;патологический эффект
+6068;linna arengulaad;модель роста города
+607;ühing;ассоциация
+6081;turvas;торф
+6084;turbatootmine;добыча торфа
+6094;pedosfäär;педосфера
+6103;karistus;штраф
+6106;pentaklorofenool;пентахлорофенол
+611;astronautika;астронавтика
+6118;kirsmaaökosüsteem;экосистема вечной мерзлоты
+612;astronoomia;астрономия
+6120;läbilaskvus;водопроницаемость
+6124;luba;разрешение
+6128;peroksüatsetüülnitraat;пероксилацетилнитрат
+6129;püsivus;химическая инерция
+6131;pestitsiidide püsivus;инерция пестицидов
+6133;isiklik vastutus;персональная ответственность
+6139;kahjuritõrje;контроль за вредителями
+6140;pestitsiid;пестицид
+6143;pestitsiiditõrjenorm;стандарты контроля за пестицидами
+6144;pestitsiidi toimerada;движение пестицидов
+6146;pestitsiidijääk;остаточное количество пестицидов
+6149;kahjurirünne;инвазия вредителей
+6152;lemmikloom;домашнее животное
+6154;naftakeemiatööstus;нефтехимическая промышленность
+6156;bensiin;моторное топливо
+616;atlas;атлас
+6162;nafta tarbimus;потребление нефти
+6163;naftageoloogia;геология нефти
+6164;naftatööstus;нефтяная промышленность
+6169;naftavarude kaitse;сохранение ресурсов нефти
+6179;ravimijäätmed;фармацевтические отходы
+6180;farmakokineetika;фармакокинетика
+6183;fenool;фенол
+6184;feromoon;феромон
+6187;filosoofia;философия
+6189;fosfaat;фосфат
+6190;fosfaadiärastus;замещение фосфатов
+6192;fosfaadiasendi;заменитель фосфатов
+6196;fosfor;фосфор
+6197;fotokeemiline aine;фотохимический агент
+6198;fotokeemiline toime;фотохимический эффект
+6200;fotokeemiline saadus;фотохимический продукт
+6201;fotokeemiline reaktsioon;фотохимическая реакция
+6202;fotokeemiline sudu;фотохимический смог
+6205;foto;фотография
+621;atmosfäärikeemia;химия атмосферы
+6211;fotosüntees;фотосинтез
+622;atmosfääriringlus;циркуляция атмосферы
+6221;füüsikalised tingimused;физические условия
+6222;loodusgeograafia;физическая география
+6224;füüsiline okeanograafia;физическая океанография
+6225;füüsiline planeerimine;планирование окружающей физической среды
+6226;füüsikaline reostaja;физический загрязнитель
+6227;füüsikaline reostus;физическое загрязнение
+6228;füüsikaline protsess;физический процесс
+6229;füüsikaline omadus;физическое свойство
+623;atmosfääriosis;компонент атмосферы
+6230;loodusteadus;физическая наука
+6235;füüsika;физика
+624;atmosfääri koostis;состав атмосферы
+6240;füsioloogia;физиология
+6244;fütopatoloogia;фитопатология
+6248;fütosotsioloogia;фитосоциология
+6250;fütotoksilisus;фитотоксичность
+6252;söövitusseade;завод по травлению металлов
+626;õhuniiskus;влажность атмосферы
+6261;lootsimine;пилотаж
+6262;katseseade;опытный завод
+6263;katseprojekt;пилотный проект
+6268;loivaline;ластоногие
+627;atmosfääri kihistumine;слои атмосферы
+6270;torustik;трубопровод
+6274;toru;труба
+6276;tasandik;равнина
+6279;plaan;план
+6280;pindreostusallikas;неопределенный источник загрязнения
+6282;plankton;планктон
+6285;linna planeeritud areng;планируемое городское развитие
+6287;projekteerimine;планирование
+629;atmosfäärimudel;модель атмосферы
+6291;planeerimismeede;мера планирования
+6292;planeerimisluba;разрешение на планирование
+6298;taimearetus;разведение растений
+6300;taimeosa;часть растения
+6304;taimehaigus;болезнь растения
+6305;tehasesisseseade;заводское оборудование
+6307;taimegeneetika;генетика растений
+6309;taimetervishoid;фитосанитария
+631;õhuseire;мониторинг атмосферы
+6310;taimekaitsevahend;продукт для защиты растений
+6312;tallulkõndija;стопоходящие
+6313;istutamine;посадка деревьев
+6316;taimefüsioloogia;физиология растений
+6318;taimekaitse;защита растений
+632;atmosfääriosoon;атмосферный озон
+6323;taim;растение
+6325;taimne riidekiud;растительное волокно
+6326;taimekaubandus;торговля растениями
+6327;plasmatehnika;плазменная технология
+6329;plast;пластмасса
+633;atmosfäärikübe;атмосферная частица
+6336;plastijäätmed;пластмассовые отходы
+6338;plaatina;платина
+6339;mänguväljak;площадка для игр
+634;atmosfäärifüüsika;физика атмосферы
+6346;plutoonium;плутоний
+6355;salaküttimine;браконьерство
+6358;mürk;яд
+6359;mürgitamine;отравление ядом
+6362;polaarökosüsteem;экосистема полярной области
+6364;polaarpiirkond;полярный регион
+6365;polder;польдер
+6367;politsei;полиция
+6372;poliitikasuunis;основные ориентиры политики
+6373;poliitiline vahend;инструмент политики
+6374;poliitika ühtlustamine;интеграция политики
+6376;looduskaitsepoliitika;политика сохранения природных ресурсов
+6378;strateegia kavandamine;планирование политики
+6381;poliitiline doktriin;политическая доктрина
+6382;poliitiline ökoloogia;политическая экология
+6383;poliitiline geograafia;политическая география
+6384;poliitiline organisatsioon;политическая организация
+6387;poliitiline partei;политическая партия
+6388;poliitiline võim;политическая власть
+639;atmosfääriprotsess;атмосферный процесс
+6392;õietolm;пыльца
+641;atmosfääri ehitus;структура атмосферы
+6481;polübroomitud difenüül;полибромированный бифенил
+6485;polüklooritud difenüül;полихлорированный бифенил
+6487;polüklooritud dibensofuraan;полихлорированный дибензофуран
+6488;polüklooritud terfenüül;полихлорированный терфенил
+6492;polütsükliline aromaatne süsivesinik;полициклический ароматический углеводород
+6493;polütsükliline süsivesinik;полициклический углеводород
+6497;polüetüleenterftalaat;полиэтилентерефталат
+6498;polümerisatsioon;полимеризация
+6499;polümeer;полимер
+6505;polüvinüülkloriid;поливинилхлорид
+6507;tiik;пруд
+6508;rikastusjäätmetiik;хранилище жидких отходов
+6517;elanikkonna jagunemine;распределение населения
+6520;populatsiooniökoloogia;экология популяции
+6525;rahvastikuränne;движение населения
+6527;rahvastiku struktuur;структура населения
+6528;rahvastiku arengutrend;тенденция численности населения
+654;omistamine;атрибуция
+6541;kivisoola kaevandamine;добыча соли в шахтах
+6549;linnukasvatus;птицеводческое фермерское хозяйство
+6551;vaesus;бедность
+6552;energiafirma;электрическая компания
+6558;töö ja soojuse suhtarv;КПД двигателя
+6579;monteeritav ehitis;блочное здание
+658;audiovisuaalmeedia;аудиовизуальные средства
+6583;eelmenetlus;предварительные слушания
+6584;preemia;страховая премия
+6586;tõendusmaterjali säilitamine;сохранение доказательства
+6587;säilitusaine;консервант
+6592;pressimine;отжим
+6593;rõhk;давление
+6594;huvirühm;группа влияния
+66;aktinoid;актиниды
+6600;tervisekaitsemeede;профилактическая здравоохранительная мера
+6602;hind;цена
+661;ametivõim;орган власти
+6610;algharidus;начальное образование
+6614;primaarenergiakasutus;первичное потребление энергии
+6623;ettevaatuspõhimõte;принцип предосторожности
+6627;trükitööstus;полиграфическая промышленность
+6630;trükkimistöö;полиграфический комбинат
+6631;eelteatamisjärgne nõusolek;предварительное согласие
+6634;eraauto;частный автомобиль
+6636;eramajapidamine;личное домашнее хозяйство
+6637;eraõigus;частное право
+664;autökoloogia;автоэкология
+6640;erasektor;частный сектор
+6641;eraveod;частный транспорт
+6643;erastamine;приватизация
+6645;londiline;хоботные
+6647;protsessiõigus;процессуальный закон
+665;automaatmääramine;автоматическое обнаружение
+6654;töötlemistehnoloogia;производственная технология
+6658;tootja vastutus;ответственность производителя
+6661;tootevõrdlus;сравнение продуктов
+6662;toote hindamine;оценка продуктов
+6663;toote markeering;идентификация продуктов
+6672;tootlustrend;тенденция производства
+6676;tootestandard;стандарт на продукт
+6678;kasum;доход
+668;autotööstus;автомобильная промышленность
+6681;prognoosandmed;данные прогноза
+6708;ajakõver;динамический график
+6709;keeld;запрет
+6710;projekt;проект
+6724;materjalide omadused;свойства материалов
+6728;omandikaitse;защита собственности
+6736;ajamitehnika;двигательная технология
+6737;kohtulikule vastutusele võtmine;судебное преследование
+6740;kaitseala;охраняемый район
+6746;kaitsealune liik;охраняемые виды
+6749;kaitse naabrite eest;охрана от соседей
+6750;linnukaitse;охрана птиц
+6752;liigikaitse;охрана видов
+6753;kaitsesüsteem;система экологической охраны
+6758;protokoll;протокол
+6760;maakond;провинция
+6766;piirkondlik ametiasutus;региональная власть
+6773;psüühiline mõju;психический эффект
+6774;psühholoogiline mõju;психологический эффект
+6775;psühholoogiline stress;психологический стресс
+6776;psühholoogia;психология
+6777;psühhosomaatiline mõju;психосоматический эффект
+6778;psühhosomaatiline haigus;психосоматическое заболевание
+6785;avalik üritus;действия общественности
+6787;avalik ujula;общественная баня
+6793;riigi rahandus;государственные финансы
+6794;riiklik finantseerimine;государственное финансирование
+6798;tervishoid;общественное здравоохранение
+6799;avalik arutelu;общественные слушания
+68;aktiinium;актиний
+680;laviinitõrje;защита от схода лавин
+6802;avalik õigus;общественное право
+6804;avalik arvamus;общественное мнение
+6805;avaliku arvamuse uuring;опрос общественного мнения
+6806;avalik park;общественный парк
+6810;riigihange;государственные закупки
+6812;prokuratuur;прокуратура
+6815;liiklusteeehitus;строительство транспортных путей
+6821;ühissõiduk;средство общественного транспорта
+6827;kopsuhaigus;заболевание легких
+6828;tselluloos;целлюлоза
+6830;tselluloositööstus;производство целлюлозы
+6831;pump;насос
+6833;pumpamine;выкачивание
+6841;puhastusseade;очистное оборудование
+6842;puhastusseade;очистной завод
+6846;puriin;пурин
+685;lennundusõigus;правила воздушных перевозок
+6855;pürolüüs;пиролиз
+6859;kvaliteedi tagamine;гарантия качества
+6861;elukvaliteet;качество жизни
+6870;kivi murdmine;разработка карьеров
+6882;rassidevahelised suhted;расовые взаимоотношения
+6883;radar;радар
+6884;kiirgus;радиация
+6887;kiirguskahjustus;ущерб от радиации
+6889;kiirgusmõju;эффект от радиации
+6890;kiiritus;воздействие радиации
+6892;kiirgusseire;мониторинг радиации
+6896;kiirguskaitse;защита от радиации
+6899;kiirgustõbi;лучевая болезнь
+6901;raadio;радио
+6904;radioaktiivne saastumine;радиоактивное заражение
+6909;radioaktiivsete jäätmete panila;сброс радиоактивных отходов
+6911;radioaktiivne emissioon;выбросы радиоактивных отходов
+6912;radioaktiivne sade;радиоактивные осадки
+6915;radioaktiivne saasteaine;радиоактивное загрязняющее вещество
+6918;radioaktiivne aine;радиоактивное вещество
+6919;radiomärgend;радиоактивный изотоп
+6920;radiomärgenditehnika;технология применения радиоактивного изотопа
+6921;radioaktiivsed jäätmed;радиоактивные отходы
+6923;radioaktiivsete jäätmete käitlus;утилизация радиоактивных отходов
+6925;radioaktiivsus;радиоактивность
+693;tausttase;фоновый уровень
+6935;radoon;радон
+6939;raudteesõiduk;железнодорожное транспортное средство
+6940;raudteeliiklus;движение железнодорожного транспорта
+6941;raudteevedu;железнодорожный транспорт
+6942;raudtee;железная дорога
+6947;vihm;дождь
+6949;vihmamets;дождевой лес
+695;taustkiirgus;фоновый уровень радиации
+6950;pilvesisene õhuvõõriseuhe;выпадение дождя
+6951;vihmavesi;дождевая вода
+6953;maapinna tõstmine;повышение уровня участка земли
+6959;üksikproov;разовое испытание
+6962;raps;рапс
+6965;haruldane liik;редкие виды
+6968;toormekulu;потребление сырья
+6970;toorme tagamine;обеспеченность сырьем
+6975;reaktsioonikineetika;кинетика химических реакций
+6977;reaktor;реактор
+6978;reaktori ohutus;безопасность реактора
+698;bakter;бактерии
+6989;soovitus;рекомендация
+699;biofilter;бактериальный слой
+6992;ainete registreerimine;учет веществ
+6997;maastiku taastamine;восстановление ландшафта
+6999;looduselustiku taastamine;восстановление фауны
+700;bakteritsiid;бактерицид
+7000;taastamiskava;план восстановления природных ресурсов
+7018;olelustsükli juhtimine;управление жизненным циклом продукта
+702;bakterioloogia;бактериология
+7021;riglussevõtukõlblikkus;потенциал вторичного использования
+7023;ringlussevõtusuhe;коэффициент вторичного использования
+7028;heastamine;возмещение ущерба
+7032;pilliroog;тростник
+7035;rafineerimisettevõte;рафинировочный завод
+7036;rafineerimine;очистка
+7038;reflektomeetria;рефлектометрия
+7045;külmik;холодильник
+7047;pagulane;беженец
+7050;prügiveok;автомобиль для сбора мусора
+7057;regenereerimine;восстановление
+7058;vanade tehaste keskkonnaseadistamine;модернизация заводского оборудования
+7063;piirkondlik konvent;региональная конвенция
+7066;piirkonna areng;региональное развитие
+7070;piirkondlik õigus;региональный закон
+7073;piirkondlik tegevuskava;региональный план
+7075;piirkondlik planeerimine;региональное планирование
+7077;piirkondlik määrus;региональный нормативный документ
+7079;piirkonnastatistika;региональная статистика
+7080;piirkonna struktuur;региональная структура
+7082;registreerimine;регистрация
+7083;registreerimiskorraldus;процедура регистрации
+7086;määrus piirväärtuste kohta;нормативный документ по ПДК
+7089;reguleeriv seadus;регулятивный закон
+7090;valitsuse järelevalve kommunaalteenuste üle;регулирующий контроль
+7091;ennistamine;восстановление
+7093;reintroduktsioon;повторное заселение вида
+71;huvirühm;группа активистов
+710;huvide tasakaalustamine;баланс интересов
+7102;kaugseire;дистанционное зондирование
+7110;üürikorterid;жилье внаем
+7112;remontimine;услуги по ремонту
+7116;aruandlus;процесс подготовки отчета
+7118;esindamine;представление
+7119;ümbertöötlemine;переработка ядерного топлива
+7122;DNA reproduktiivne käitlemine;манипулирование репродукцией
+7126;päästeteenistus;служба спасения
+7129;uurimiskeskus;исследовательский центр
+7135;uurimisprojekt;исследовательский проект
+7137;bioloogiline kaitseala;биологический заповедник
+7138;veehoidla;водоем
+7144;elamu;жилой дом
+7149;veejääk;остаточное количество воды
+7155;jääkrisk;остаточный риск
+7156;prügi;остаток после переработки отходов
+7159;jääksisalduse määramine;анализ остатков
+716;pangandus;банковские операции
+7160;jääkide ringlussevõtt;вторичное использование остатков
+7161;vaik;смола
+7169;ressursside hindamine;оценка ресурса
+7170;ressursihoid;сохранение ресурсов
+7172;ressursikasutus;эксплуатация ресурсов
+7173;ressursivaru;ресурсный запас
+7175;ressursimajandus;управление ресурсами
+7178;hingamisõhk;респираторный воздух
+7179;hingamisteede haigus;респираторное заболевание
+7182;hingamisteed;респираторный тракт
+7184;vastutus;ответственность
+7185;keskkonnamõju pööramine;обратное воздействие
+7187;resistentsusfaktor;форма покоя
+7189;ennistusmeede;восстановительная мера
+719;baarium;барий
+7191;tootmispiirang;ограничение производства
+7192;kasutuspiirang;ограничение на использование
+7193;jaekaubandus;розничная торговля
+7195;järelsisustamine;ретрофиттинг
+7197;loodusseisundi taastamine;возврат к природе
+7198;korduskasutuspakend;оборотная тара
+72;aktiivsüsi;активированный уголь
+7201;materjalide korduskasutus;повторное использование материалов
+7202;taashaljastamine;восстановление растительного покрова
+7204;pöördosmoos;реверсный осмос
+7214;riis;рис
+7217;taotlusõigus;право подать петицию
+7218;varaline õigus;право собственности
+7221;õigus hüvitisele;право на компенсацию
+7223;rõngastamine;кольцевание
+7230;veekogu kaldavöönd;прибрежная зона
+7232;meretaseme tõus;повышение уровня моря
+7233;risk;риск
+7235;riskianalüüs;анализ риска
+7236;riski hindamine;оценка риска
+7238;ohust teavitamine;обмен информацией по рискам
+7240;ohu teadvustamine;понимание риска
+7241;riski vähendamine;снижение риска
+7244;jõgi;река
+7251;jõevalgla muutumine;развитие речного бассейна
+7257;jõesängi reguleerimine;изменение русла реки
+726;taustseire;базовый мониторинг
+7269;jõevesi;речная вода
+7279;teehooldus;содержание дорог
+7282;liiklusohutus;дорожная безопасность
+7283;teesool;техническая соль
+7295;teeehitustehnika;организация дорожного движения
+7298;kivim;порода
+73;aktiivmuda;активный ил
+7302;kivivill;минеральная вата
+7306;näriline;грызун
+7312;juur;корень
+7314;pöördahi;роторная печь
+7319;marsruut;маршрут
+7324;kautšuk;резина
+7326;kautšuki töötlemine;переработка резины
+7328;kummijäätmed;резиновые отходы
+733;kandseen;базидиомицеты
+7340;äravool;сток
+7352;maaelanikkond;сельское население
+7353;maaasula;сельский поселок
+7354;agroturism;загородный туризм
+7355;maaasulate veevarustus;сельское водоснабжение
+736;annusprotsess;периодический процесс
+7363;ohutusanalüüs;анализ безопасности
+7366;ohutuseeskiri;правило безопасности
+7367;ohutusnormid;стандарт безопасности
+7369;ehitusohutusnormid;норма безопасности для здания
+7370;ohutusuuring;изучение безопасности
+7373;salamander;саламандра
+7376;sooldumine;засоление
+7384;samonella;сальмонелла
+7395;soolakoormus;загрязнение солью
+740;suplusvesi;водоемы для купания
+7400;sooltuumik;соляное ядро
+7401;sool;соль
+7402;soolane vesi;морская вода
+7404;päästmine;спасение на море
+7407;proovivõtt;отбор проб
+7410;proovivõtutehnika;метод отбора проб
+7411;sanktsioon;санкция
+7413;liiv;песок
+7419;liivaluidete kinnistamine;стабилизация песчаных дюн
+7420;liivaluide;песчаная дюна
+7438;prügila;свалка с санитарной обработкой
+7443;tervisekaitsetehnika;санитария и санитарные мероприятия
+7444;tervisekaitsekava;план санитарных мероприятий
+7449;saproobsusindeks;индекс органического загрязнения
+745;patarei;аккумулятор
+7457;hoius;сбережения
+7458;saepuru;древесные опилки
+746;patareikõrvaldus;утилизация использованных аккумуляторов
+7464;skistosomiaas;шистосомоз
+7465;kool;школа
+7470;kooliõpetus;школьное обучение
+7472;teadus;наука
+7478;teaduskoostöö;научное сотрудничество
+7480;teaduspoliitika;научная политика
+7483;kasusjäätmed;скрап
+7484;kasusjäätmeturg;рынок скрапа
+7485;kasusjäätmehind;цена на скрап
+7495;meri;море
+7497;merepõhi;морское дно
+7498;merepõhjavarade kasutamine;использование ресурсов морского дна
+7500;merepõhjavarade kaevandamine;разработка ресурсов морского дна
+7502;mereveeringe;циркуляция морской воды
+7513;meretase;уровень моря
+7514;meretaseme tõus;повышение уровня моря
+7519;tihend;перемычка
+7528;mererand;морской берег
+7529;aastaaeg;сезон
+7531;aastaajaline ränne;сезонная миграция
+7535;merevesi;морская вода
+7536;merevee magestamine;опреснение морской воды
+7538;mereveekaitse;защита морской воды
+7541;sekundaarne biotoop;вторичный биотоп
+7542;keskharidus;среднее образование
+7548;teenindussektor;производственный сектор
+7554;majandussektor;экономический сектор
+7557;seadmete ohutus;безопасность промышленных установок
+7565;uhtained;осадок
+7566;uhtainete liikumine;перемещение осадков
+7571;filtratsioon;просачивание воды
+7574;filtratsioonivesi;фильтрованная вода
+7578;seismoseire;сейсмический мониторинг
+7579;tsunami;цунами
+7581;konfiskeerimine;изъятие
+7582;tulu konfiskeerimine;изъятие прибыли
+7586;loomade aretusvalik;селекция животных
+7588;sortide valikaretus;селекция растений
+7590;seleen;селен
+7592;eneseabiprogramm;программа  самопомощи
+7593;enesevaatlus;самоконтроль
+7594;isepuhastus;самоочищение
+7595;semiariidne ökosüsteem;экосистема полузасушливых земель
+7597;pooljuht;полупроводник
+7599;pooltoode;полуфабрикат
+760;mesilasekaitse;охрана пчел
+7600;poolmetall;металлоид
+7604;tundlikkusanalüüs;анализ чувствительности
+761;lihaveised;мясной скот
+7613;septik;отстойник
+7616;arestimine;секвест
+7617;madu;змея
+7618;teeninduspiirkond;район обслуживания
+762;mesilane;пчела
+7621;teenused;услуги
+7622;asustustihedus;концентрация населенных пунктов
+7625;linnade laialivalgumine;разрастание городов
+7627;setiti;отстойник
+7628;kanalisatsioonivesi;сточная вода
+7630;reoveeniisutusala;поля аэрации
+7636;reoveekäitlussüsteem;система обработки стоков
+764;mardikas;жук
+7641;kanalisatsioonivõrk;канализационная система
+7646;koorikloom;моллюски и ракообразные
+765;käitumine;поведение
+7651;kaitserajatis;защитное ограждение
+7655;laevaehitus;судостроение
+7659;laevaõnnetus;авария на море
+766;ainete käitumine;свойства веществ
+7662;laevaprügi;отходы судов
+7663;laevaprügi kõrvaldus;утилизация отходов судов
+7668;lasketiir;стрельбище
+767;käitumislaad;манера поведения
+7670;kaubanduskeskus;торговый центр
+768;kasur;полезный организм
+7683;võsa;кустарник
+7686;ruumiõhu sündroom;синдром вредного помещения
+7688;kõrvalmõju;побочный эффект
+7689;ravimite kõrvalmõju;побочные эффекты медицинских препаратов
+7690;sõelumine;просеивание
+7692;summuti;глушитель
+7694;räni;кремний
+7699;hõbe;серебро
+77;aktiivne osalemine;активное участие
+7702;matkemodelleerimine;математическое моделирование
+7709;asukoha valik;выбор площадки
+7712;mõõtmestamine;определение размера
+7715;suusatamine;лыжный спорт
+7718;silueti rikkumine;разрушение ландшафта
+772;veekogu põhjakiht;слой бентоса
+7720;räbu;шлак
+7724;tapamaja;бойня
+7725;tapajäätmed;отходы боен
+7726;loomade tapmine;забой скота
+7730;une häirimine;нарушение сна
+7731;kaevandamisrinne;склон котлована
+7733;muda;ил
+7742;reguleerlüüs;шлюз
+7752;väikesaared;малые острова
+7755;väikeahi;маломощная печь
+7756;väikereostaja;маломощный источник загрязнения
+7759;sudu;смог
+776;benseen;бензин
+7760;suduhoiatus;предупреждение о смоге
+7761;suits;дым
+7763;suitsu vältimine;предотвращение задымления
+7765;suitsetamine;курение
+7768;nastiklane;змеи
+7769;lumi;снег
+777;bensopüreen;бензопирен
+7774;leotamine;пропитка
+7776;seep;мыло
+7781;sotsiaalne käitumine;социальное поведение
+7784;sotsiaalne seisund;социальное условие
+7787;sotsiaalne hind;социальная цена
+7790;sotsiaalne areng;социальное развитие
+7791;sotsiaalne diferentseerumine;социальная дифференциация
+7793;sotsiaaldünaamika;социальная динамика
+7795;sotsiaalrajatis;социальный объект
+7796;sotsiaalne grupp;социальная группа
+7798;sotsiaalne indikaator;социальный показатель
+78;sekkumine maakasutusse;вмешательство на суше
+7803;sotsiaalmeditsiin;общественная медицина
+7805;ühiskondlik liikumine;общественное движение
+7807;üldsuse osalemine;участие общественности
+7809;sotsiaalpoliitika;социальная политика
+781;berüllium;бериллий
+7810;sotsiaalne probleem;социальная проблема
+7811;sotsiaalne protsess;социальный процесс
+7813;sotsiaalabi;социальная помощь
+7815;sotsiaalkindlustus;социальное страхование
+7816;sotsiaalteenus;социальные услуги
+7817;sotsiaalne struktuur;структура общества
+7818;sotsiaaluuring;опрос общественного мнения
+7819;sotsiaalne süsteem;социальная система
+7821;ühiskondlik väärtus;социальная ценность
+7822;sotsiaalhoolekanne;социальное благосостояние
+7823;ühiskond;общество
+783;joogitööstus;производство напитков
+7830;sotsioloogiline uuring;социологический обзор
+7831;sotsioloogia;социология
+784;jook;напиток
+7840;veepehmendusaine;смягчающий агент
+7842;tarkvara;программное обеспечение
+7843;muld;почва
+7844;mulla hapestumine;закисление почвы
+7845;mullaõhk;почвенный воздух
+7846;mullaanalüüs;анализ почвы
+7847;mullabioloogia;биология почвы
+7848;mulla suutvus;продуктивность почвы
+7849;mullakeemia;химия почвы
+7850;mulla tihenemine;уплотнение почвы
+7851;mulla seisund;состояние почвы
+7852;mullakaitse;сохранение почвы
+7856;mullasaaste kõrvaldamine;дезактивация почвы
+7858;mullaerosioon;эрозия почвы
+786;bibliograafia;библиография
+7860;mullaviljakus;плодородие почвы
+7861;väetamine;удобрение почвы
+7863;maaparandus;улучшение почвы
+7866;mullakiht;почвенный слой
+7867;pinnase koormus;нагрузка на землю
+7868;mullastikukaart;карта почв
+7871;pinnasemehaanika;почвенная механика
+7873;mullamineraloogia;минералогия почвы
+7874;mullavesi;влажность почвы
+7875;mulla veerežiim;режим влажности почвы
+7876;mullaorganism;почвенный организм
+788;jalgratas;велосипед
+7881;mullaprotsess;почвенный процесс
+7882;mullaprofiil;профиль почв
+7886;mullaressursid;почвенный ресурс
+7889;mulla sooldumine;засоление почвы
+7894;pinnase stabiliseerimine;стабилизация почвы
+7895;mulla struktuur;структура почвы
+7896;maapinna vajumine;проседание почвы
+7899;mullaliik;тип почвы
+7900;maakasutus;использование почвы
+7902;mullavesi;почвенная вода
+7905;päikesepatarei;солнечный коллектор
+7906;päikeseenergia;солнечная энергия
+7907;päikeseenergia kasutamine;технология использования солнечной энергии
+7912;päikesekiirgus;солнечная радиация
+7919;tahke olek;твердое состояние
+792;kahepoolne leping;двусторонняя конвенция
+7923;lahustuvus;растворимость
+7925;lahusti;растворитель
+7926;lahustite taaskasutamine;повторное использование растворителей
+7927;laululind;певчая птица
+7928;ülehelipauk;звуковой удар
+7929;tahm;сажа
+7933;heli;звук
+7936;heliemissioon;звуковыделение
+7937;heliimmissioon;иммиссия звука
+7939;heli mõõtmine;измерение уровня звука
+794;pilsiõli;трюмная нефть
+7941;helisummutus;звукоизоляция
+7942;heli levimine;распространение звука
+7945;heliläbilaskmine;передача звука
+7948;Atlandi ookeani lõunaosa;южная часть Атлантического океана
+7952;Vaikse ookeani lõunaosa;южная часть Тихого океана
+7969;kosmoseveondus;космический транспорт
+7970;kosmoselend;космический полет
+7972;kosmosepraht;отходы в космосе
+7973;spastiline krupp;спазмодический круп
+7974;populatsiooni liikuvus;пространственная мобильность
+7975;erivolitus;специальное разрешение
+7978;eriseadus;специальный закон
+798;bioakumulatsioon;бионакопление
+7983;liigikaitse;сохранение видов
+7985;liigiline vaesestumine;исчезновение видов
+7986;liikide reintroduktsioon;повторное заселение видов
+7992;spektroskoopia;спектроскопия
+7994;kiirus;скорость
+7996;piirkiirus;ограничение скорости
+7999;ämblik;паук
+8;mahajäetud sõiduk;брошенный автомобиль
+800;bioakumuleeruv reoaine;бионакопительное загрязняющее вещество
+8006;käsn;губки
+8008;sport;спорт
+8014;spordirajatis;спортивное сооружение
+8019;aerosoolipurk;аэрозольный баллончик
+802;biosaadavus;биополезность
+8020;õhku pihustatud asbest;распыленный асбест
+8028;allikavesi;вода из родника
+8029;pritsimine;распыление
+8031;väljak;площадь
+8032;omavoliline hõive;скваттерное поселение
+8036;biotiik;хранилище жидких отходов
+8039;korsten;дымовая труба
+8047;norm;стандарт
+8048;standardimine;стандартизация
+8056;põhitoit;основные продукты питания
+8057;tärklis;крахмал
+8062;riik;государство
+807;biokeemiline meetod;биохимический метод
+8070;jäätmete seisund;состояние отходов
+8073;jaam;станция
+8074;statistiline analüüs;статистический анализ
+8075;statistilised andmed;статистические данные
+8076;statistika;статистика
+8077;jäätmestatistika;статистический учет отходов
+8078;arenguseisund;уровень экономического развития
+8082;igamisaeg;срок давности
+8083;avalikõiguslik juriidiline isik;государственный орган
+8084;pidev müra;устойчивый звук
+8088;teras;сталь
+8089;terasetööstus;производство стали
+8096;steroid;стероид
+8098;ergutusfond;фонд экономического стимулирования
+81;kohanemisvõimeline liik;адаптирующиеся виды
+8100;laomajandus;управление запасами
+8104;kivi;камень
+8110;pais;дамба
+812;biokeemiline protsess;биохимический процесс
+8122;ahi;печь
+8125;kihistumine;стратификация
+8128;stratosfäär;стратосфера
+813;biokeemiline aine;биохимическое вещество
+8133;vooluhulga mõõtmine;измерение потока
+8136;tänavapuhastus;уборка улиц
+8140;tugevusõpetus;сопротивление материалов
+8141;stress;стресс
+8143;pealmaakaevandamine;вскрышные горные работы
+8144;strontsium;стронций
+8145;struktuurimuutuste plaan;программа структурной перестройки
+815;biokeemia;биохимия
+8151;regionaalplaneering;структурный план
+8158;merepõhjamorfoloogia;морфология морского дна
+8159;allveelaev;подводная лодка
+816;biotsiid;биоцид
+8162;järgnev käsk;последующий приказ
+8167;mulla aluskiht;грунт
+8168;drenaaž;грунтовой дренаж
+8173;halogeeniühendite asendamine;замещение галогенизированных соединений
+8174;fosfaatide asendamine;замещение фосфата
+8175;substraatkultiveerimine;культивация субстрата
+818;bioklimatoloogia;биоклиматология
+8182;äärelinn;пригород
+8185;suhkur;сахар
+8188;suhkrutööstus;производство сахара
+8190;sulfaat;сульфат
+8192;sulfiid;сульфид
+8198;väävel;сера
+820;bioakumulatsioonitegur;биоконцентрирующий фактор
+8200;väävlisisaldus;концентрация серы
+8202;vääveldioksiid;диоксид серы
+8203;väävelhape;серная кислота
+8204;väävli oksiid;оксид серы
+821;biolagundatavus;способность к биодеградации
+8212;ehitusjärelevalve;контроль за строительными работами
+8213;paigaldusjärelevalve;контроль за установкой оборудования
+8214;järelevalveorgan;наблюдательный орган
+8226;pindpinevus;напряжение поверхности
+8227;pinnatöötlus;обработка поверхности
+8229;pinnavesi;поверхностная вода
+823;biolagundatav reoaine;биодеградирующее загрязняющее вещество
+8236;kirurgiajäätmed;отходы хирургических операций
+8237;ülejääk;положительный баланс
+8240;ülevaatus;обзор
+8255;magusaine;подсластитель
+8262;sünökoloogia;экология сообществ
+8263;sünergism;принцип совместного существования
+8265;mürgiste ainete sünergeetiline toime;совместный эффект загрязняющих веществ
+8268;sünteesdetergent;стиральный порошок
+8269;sünteeskiutööstus;производство синтетических волокон
+8272;sünteesmaterjal;синтетический материал
+8273;sünteesmaterjalitööstus;производство синтетических материалов
+8275;sünteeskiud;синтетическое текстильное волокно
+8278;süsteemianalüüs;системный анализ
+8279;süsteemivõrdlus;системное сравнение
+8280;süsteemiteooria;теория систем
+8286;hoidlapark;танкерный склад
+8289;tanniin;танин
+8296;tõrv;деготь
+8299;sihtrühm;целевая аудитория
+83;kohanemisaeg;период адаптации
+830;bioeetika;биоэтика
+8301;tariif;тариф
+8303;tõrvatootmine;производство дегтя
+8304;bituminoosne liiv;битуминозный песок
+8305;tõrvakasutus;использование дегтя
+8307;maks;налог
+8308;maksustamine;налогообложение
+8309;maksude diferentseerimine;дифференциация налогов
+8312;maksuseadus;закон в области налогообложения
+8313;taksonoomia;таксономия
+832;biogaas;биогаз
+8321;õppemeetod;метод обучения
+833;biogeokeemiline aineringe;биохимический цикл
+8330;tehnoloogia muutmine;технологическое изменение
+8333;tehnoloogia areng;технологическое развитие
+8334;tootmisoht;технологическая угроза
+8337;tehnoloogiaprotsess;технологический процесс
+8339;tehnoloogia;технология
+834;biogeokeemia;биогеохимия
+8340;tehnoloogia omaksvõtt;внедрение технологий
+8341;tehnoloogia hindamine;оценка технологии
+8342;tehnoloogiasiire;передача технологии
+8344;tektoonika;тектоника
+835;biogeograafiline piirkond;биогеографический регион
+8350;telemaatika;телематика
+8353;televisioon;телевидение
+836;biogeograafia;биогеография
+8361;parasvöötmesegamets;лес умеренной климатической зоны
+8362;parasvöötmelehtmets;редколесье умеренной климатической зоны
+8366;temperatuur;температура
+8367;ajutine elupaik;временное жилище
+8369;ajutine peavari;временный кров
+8371;ajutine ladustamine;временное хранение
+8376;teratogenees;тератогенез
+8377;teratoloogiline sõeluuring;проверка на тератогенез
+8378;teratogeensus;тератогенность
+8379;teratogeen;тератоген
+8380;terminoloogia;терминология
+8381;termiit;термит
+8387;maismaa elusvarad;биологические ресурсы суши
+8388;maismaaökosüsteem;экосистема суши
+839;bioaktiivsus;биологическая активность
+8398;territoriaalpoliitika;территориальная политика
+8403;kolmas sektor;сектор торговли и услуг
+8407;katseloom;подопытное животное
+841;bioanalüüs;биологический анализ
+8411;katsetamisjuhend;руководство для проведения тестов
+8412;katsemeetod;метод тестирования
+8415;katseorganism;подопытный организм
+842;bioloogiline omadus;биологические свойства
+8421;tekstiilitööstus;текстильная промышленность
+8422;tekstiil;текстиль
+8428;tallium;таллий
+8433;rahateooria;теория денег
+8442;soojusreostus;термальное загрязнение
+8446;meresoojusenergia;морская термальная энергия
+8448;termaalvesi;термальная вода
+8450;termodünaamika;термодинамика
+8454;tesaurus;тезаурус
+846;bioloogiline areng;биологическое  развитие
+8470;läviväärtus;пороговая величина
+8475;loodeteenergia;энергия прилива
+8478;tõusuvesi;приливная вода
+8486;puidutööstus;лесная промышленность
+8487;aeg;время
+849;bioloogiline toime;биологический эффект
+8490;tina;олово
+8496;titaandioksiid;диоксид титана
+8499;kärnkonn;жаба
+8501;tubakas;табак
+8503;tubakasuits;табачный дым
+851;biotehnika;биоинженерия
+8516;tornaado;торнадо
+8519;kilpkonn;сухопутная черепаха
+8521;üldnäitaja;итоговый параметр
+8522;turism;туризм
+8525;turismirajatis;туристические услуги
+8527;turismipiirkond;туристическая зона
+8541;toksikoloogiline hindamine;токсикологическая оценка
+8542;toksikoloogiline katsetamine;токсикологическое испытание
+8549;toksiin;токсин
+8556;jälgaine;микропримесь
+8559;soontaim;трахеофит
+8562;keskkonnajälgimiskava;план наблюдений
+8566;kauplemine ja tarbimine;торговля и потребление
+8567;kaubandustõke;торговый барьер
+8569;kaubandus;торговля
+8571;kaubanduspoliitika;торговая политика
+8572;elukutse;торговля как вид деятельности
+8573;kaubandussuhted;торговые отношения
+8574;kaubanduspiirang;торговые ограничения
+8576;ametiühing;профсоюз
+8579;rahvakultuur;традиционная культура
+8580;rahvameditsiin;традиционная медицина
+8582;liiklus;движение транспорта
+8583;liiklusõnnetus;авария на дороге
+8585;liiklusjärelevalve;регулирование движения дорожного транспорта
+8588;mootorsõidukiheitmed;выхлопы транспортных средств
+8589;liiklustehnika;дорожное строительство
+8590;liikluse infrastruktuur;транспортная инфраструктура
+8592;liiklusummik;дорожная пробка
+8595;liiklusseire;мониторинг транспорта
+8596;liiklusmüra;дорожный шум
+8598;veeliiklus;движение на воде
+8599;liiklustee;транспортный маршрут
+86;lisapakend;дополнительная упаковка
+8606;rong;поезд
+861;bioseire;биологический мониторинг
+8626;üleminekukorraldus;соглашение о переходном периоде
+8627;rändasula;временный поселок
+8629;siirdeelement;переходный химический элемент
+8633;veoettevõte;транспортные перевозки
+8634;torutransport;трубопроводный транспорт
+8639;veonduspoliitika;транспортная политика
+8648;veonduse planeerimine;транспортное планирование
+8653;veondussüsteem;транспортная система
+8655;püünisjaht;отлов животных
+8658;reisimine;путешествие
+8659;reisikulu;расходы на поездку
+8664;puu;дерево
+8667;puukool;лесной питомник
+867;bioloogiline protsess;биологический процесс
+8673;triasiin;триазин
+8675;tilkniisutus;капельное и струйное орошение
+868;bioproduktsioon;биологическое производство
+8683;troofiline tase;трофический уровень
+8685;troopikaökosüsteem;экосистема тропиков
+8686;troopikametsa ökosüsteem;экосистема тропических лесов
+8687;troopikamets;тропический лес
+8688;troopiline vihmamets;тропический дождевой лес
+8695;troposfäär;тропосфера
+8696;troposfääriosoon;тропосферный озон
+8701;peamaantee;магистральная дорога
+8704;tundra;тундра
+8707;tunnel;тоннель
+8713;turbiin;турбина
+8719;vahetekktanker;двухпалубный танкер
+8720;katamaraan;судно с двойным корпусом
+8722;ettevõtlusliik;тип бизнеса
+8723;nõudeliik;тип претензии
+8724;juhtimisviis;тип менеджмента
+8727;taifuun;тайфун
+873;bioloogilised loodusvarad;биологический ресурс
+8731;rehv;автопокрышка
+8736;ultrafiltrimine;микрофильтрация
+8739;ultraheli;ультразвук
+8742;ultraviolettkiirgus;ультрафиолетовое излучение
+8755;prügilapõhja vooderdamine;гидроизоляция мусорной ямы
+8758;allmaahoidla;подземное хранилище
+8761;piiratud õigustega inimesed;неимущие слои населения
+8762;ettevõtlus;похоронная служба
+8766;allveelase;подводный сток
+8776;Ühinenud Rahvaste Organisatsioon;Организация Объединенных Наций
+878;heitgaasi biopuhastus;биологическая очистка отработанного газа
+8782;puhta õhu piirkond;район чистого воздуха
+8784;toorvesi;сырая вода
+8785;kasvatus;воспитание
+8789;ülemkoda;Верхняя Палата
+879;jäätmete biokäitlus;биологическая утилизация отходов
+8794;linna arengukava;программа городского развития
+8797;linnaala;городской район
+88;lisand;добавки
+880;biorelv;биологическое оружие
+8801;asulate taandareng;заброшенный городской район
+8803;linnaplaneerimine;городское проектирование
+8804;linnaehitus;городское развитие
+8807;linnaökosüsteem;экосистема города
+881;bioloogia;биология
+8811;kommunaalrajatis;объект коммунального хозяйства
+8815;linnahaljastud;городская зелень
+882;bioluminestsents;биолюминесценция
+8824;linnamaastik;городской ландшафт
+8826;linnahaldus;управление городом
+8829;linnaplaneerimine;городское планирование
+8832;linnaarenduspoliitika;городская политика
+8833;linnareostus;загрязнение городскими отходами
+8834;linnaelanikkond;городское население
+8839;asulate moderniseerimine;реконструкция городов
+8840;asulate saneerimine;городские санитарные мероприятия
+8841;linnaasum;микрорайон
+8843;linnastress;урбанистический стресс
+8844;linnastruktuur;городская структура
+8845;urbanistika;изучение городов
+8847;linnaliiklus;городской транспорт
+885;biomassist saadav energia;энергия биомассы
+8850;veevärgivesi;городская вода
+8852;asulate veevarustus;городское водоснабжение
+8857;karulane;медвежьи
+8866;vanarehv;скрап из автопокрышек
+8870;vabaajakasutus;использование досуга
+8872;tarbijaeelis;преимущество для пользователя
+8875;kütteväärtuse kasutamine;использование теплотворной способности
+8876;kohalike ressursside kasutamine;использование местных ресурсов
+8877;pestitsiidikasutus;использование пестицидов
+8879;ressursikasutus;использование ресурсов
+888;biofüüsika;биофизика
+8886;määratlemata õigusmõiste;неопределенная правовая концепция
+8887;org;долина
+889;bioreaktor;биореактор
+8892;väärtuslik ökosüsteemielement;ценный компонент экосистемы
+8893;vanaadium;ванадий
+8894;vandalism;вандализм
+8898;aururõhk;давление пара
+8899;lakk;лак
+890;biorütm;биоритм
+8908;taimkate;растительный покров
+8909;köögiviljakasvatus;растениеводство
+891;bioohutus;биобезопасность
+8910;taimeökoloogia;экология растений
+8912;taimearetus;селекция растений
+8913;taimeõli;растительное масло
+8918;taimepaljundus;репродукция растений
+8919;taimsed loodusvarad;растительный ресурс
+8920;köögivili;овощ
+8921;taimejäätmed;растительные отходы
+8922;taimkond;растительность
+8925;taimkattetüüp;тип растительности
+8926;sõiduk;транспортное средство
+8929;mootorsõiduki heitgaas;выхлопной газ транспортных средств
+8931;mootorsõidukite ülevaatus;техосмотр автомобилей
+8934;sõidukitööstus;производство транспортных средств
+894;biosfäärikaitseala;биосферный заповедник
+895;biosüntees;биосинтез
+8951;vetrinaarmeditsiin;ветеринария
+8959;vibratsioon;вибрация
+8964;video;видео
+8967;küla;деревня
+8969;käärimispära;барда
+8974;viroloogia;вирусология
+8976;viirus;вирус
+8977;viskoossus;вязкость
+898;biotehnoloogia;биотехнология
+8986;vitamiin;витамин
+8987;viinamarjakasvatus;виноградарство
+899;biootiline tegur;биотический фактор
+8990;sõnastik;словарь
+8993;lenduv orgaaniline ühend;летучее органическое соединение
+8995;lenduvus;летучесть
+8997;vulkaaniline piirkond;вулканический район
+8999;vulkaanipurse;извержение вулкана
+9003;vulkanism;вулканический процесс
+9008;jäätmete juurdevool;общее количество отходов
+901;biotoop;биотоп
+9010;vabatahtlik töö;общественная работа
+9013;vulkaniseerimine;вулканизация
+9015;ohualdis liik;нестабильный вид
+9019;Waddeni meri;пролив Ваддензе
+902;biotoobivõrk;система биотопов
+9022;palgasüsteem;система оплаты труда
+9023;sein;стена
+9028;sõda;война
+903;biotoobikaitse;защита биотопов
+9034;hoiatuskava;план оповещения
+9035;hoiatussüsteem;система оповещения
+9040;raiskamine;убыток
+9042;heitõhk;отработанный воздух
+9044;jäätmeanalüüs;анализ отходов
+9045;keskkonna heitmetaluvus;способность к ассимиляции отходов
+9048;jäätmebilanss;баланс отходов
+9049;prügikast;мусорный контейнер
+9051;jäätmeliik;тип отходов
+9053;jäätmeliigitus;классификация отходов
+9057;jäätmete koostis;состав отходов
+9058;jäätmetöötlustehnoloogia;технология переработки отходов
+9059;jäätmete degaseerimine;дегазификация отходов
+9062;jäätmekõrvaldus;утилизация отходов
+9065;jäätmekõrvalduse maksumus;стоимость утилизации отходов
+9068;jäätmekõrvaldustasu;налог на утилизацию отходов
+9069;ulaprügila;свалка отходов
+9072;jäätmebörs;обмен отходами
+9077;heitgaas;отходящий газ
+9079;heitgaasiuuring;анализ отходящего газа
+9080;heitgaasivähendamine;снижение выброса отходящего газа
+9082;vanaklaas;отходы производства стекла
+9083;heitkips;отходы производства гипса
+9085;heitsoojus;отработанное тепло
+9086;heitsoojuskoormus;выброс попутно выработанного тепла
+9087;heitsoojuse kasutamine;использование отработанного тепла
+9088;jäätmesisseveoluba;разрешение на импорт отходов
+9092;jäätmehooldus;управление отходами
+9095;jäätmehulga minimeerimine;минимизация отходов
+9096;jäätmehulga minimeerimispotentsiaal;потенциал минимизации отходов
+91;lubatud ööpäevaannus;допустимая суточная норма потребления
+9107;jäätmete ringlussevõtt;рециркуляция отходов
+9118;jäätmete ladustamine;хранение отходов
+912;lind;птица
+9121;jäätmekäitlus;переработка отходов
+9125;jäätmekasutus;применение отходов
+9126;jäätmehulk;объем отходов
+9127;reovesi;сточные воды
+9128;reoveemaks;налог на сточные воды
+9129;reoveeheide;выброс сточных вод
+913;linnukaitseala;заповедник для птиц
+9135;reoveekoormus;загрязнение сточными водами
+9138;reovee omadused;качество сточных вод
+914;röövlind;хищная птица
+9147;veeuuring;анализ воды
+9149;organismi veebilanss;биологический баланс воды
+915;linnuliik;виды птиц
+9151;veekogu;водоем
+9153;veekogu põhi;дно водоема
+9157;veevõtt;сбор воды
+9159;veekaitse;сохранение водных ресурсов
+9160;veetarbimine;потребление воды
+9161;vooluveekogu;водный путь
+9165;veevarustussüsteem;система водоснабжения
+9166;veekogude ohustamine;угроза воде
+9168;veeerosioon;водная эрозия
+9169;veevõtt;водозабор
+917;sündimuse piiramine;контроль за рождаемостью
+9171;vesikirp;водяная блоха
+9172;vee voolamine looduses;расчет гидрологического потока
+9178;tarbevesi;израсходованная вода
+9180;tööstusvesi;вода для промышленного использования
+9183;veelinnud;водоплавающие
+9184;vee karedus;жесткость воды
+9186;vesihüatsint;водяной гиацинт
+9193;liigniiske maa;заболоченная земля
+9195;veemajandus;управление водными ресурсами
+9196;veeseire;мониторинг воды
+9202;vee reostamine;загрязнение воды
+9203;veekaitse;предотвращение загрязнения воды
+9206;veekaitse;охрана вод
+9209;veepump;водяной насос
+921;bituumen;битум
+9210;veepuhastus;очистка воды
+9214;vee kvaliteet;качество воды
+9216;vee headushoid;управление качеством воды
+9217;veevarude majandamine;управление количеством воды
+9221;veevaru;водный ресурс
+9223;veevarude kaitse;сохранение водных ресурсов
+9225;veevarude arendamine;развитие водных ресурсов
+9227;vee korduskasutus;повторное использование воды
+9229;vee sooldumine;засоление воды
+9231;hüdroloogia;наука о воде
+9234;valgla majandamine;управление водоразделом
+9235;veelahe;водораздел
+9236;kaldaalade majandamine;развитие береговой зоны
+9241;veestatistika;статистика водного хозяйства
+9244;veevarustus;водоснабжение
+9245;veetransport;водный транспорт
+9251;veekasutus;водопользование
+9254;veetee;водный путь
+9255;veekaev;колодец
+9257;veevärk;водоочистное предприятие
+9259;laineenergia;энергия волны
+926;kivisüsi;черный уголь
+9262;merelaine;морская волна
+9267;relv;оружие
+9269;ilm;погода
+9274;ilmastiku muutumine;изменение климата
+9276;ilmastikuseire;мониторинг погоды
+9278;ilmaennustus;прогнозирование погоды
+9280;umbrohund;сорняк
+9281;umbrohutõrje;контроль за сорняками
+9286;kaal;вес
+9290;kaev;скважина
+9297;märgala;переувлажненные земли
+9298;märgalaökosüsteem;экосистема переувлажненных земель
+930;kõrgahi;доменная печь
+9300;märgskraber;мокрый скруббер
+9301;märjad jäätmed;жидкие отходы
+9302;vaal;кит
+9305;vaalapüük;китобойный промысел
+9308;hulgikaubandus;оптовая торговля
+9310;loodusloom;дикое животное
+9314;looduselustikuhoid;сохранение дикой природы
+9318;populatsioonistatistika;статистика популяций диких животных
+932;pleegitusaine;отбеливающий реагент
+9321;loomahoiuala;заповедник дикой природы
+9322;metsistumine;в условиях дикой природы
+9323;loodustaim;дикорастущее растение
+9324;maksevalmidus;готовность платить
+9325;maksevalmiduse analüüs;анализ готовности платить
+9327;tuul;ветер
+933;pleegitussavi;отбеливающая глина
+9335;tuuleenergia;энергия ветра
+934;pleegitamine;процесс отбеливания
+9344;naine;женщина
+9347;naiste olukord;статус женщины
+9349;mets;лес
+9352;metsa raadamine;рубка леса
+9353;metsaökosüsteem;экосистема редколесья
+9356;puidukaitse;сохранение древесины
+9358;puittoode;изделие из древесины
+9362;puidujäätmed;древесные отходы
+9363;vill;шерсть
+9366;tööõnnetus;авария на производстве
+9369;töötingimused;условия работы
+9371;tööaeg;часы работы
+9373;mullaharimine;обработка почвы
+9375;töökoht;рабочее место
+9380;maailm;мир
+9391;seadusvastane tegu;неправильное действие
+9392;valitsuse seadusvastane tegu;неправильное действие государства
+9398;röntgenkiirgus;рентгеновские лучи
+9403;pärm;дрожжи
+9406;väikelaps;ребенок
+9407;noorus;молодость
+9409;noorsootöö;работа несовершеннолетних
+9412;tsink;цинк
+9417;tsoneerimine;районирование
+9422;loomaaed;зоологический сад
+9425;zooloogia;зоология
+9426;zoonoos;зооноз
+947;biokeemiline hapnikutarve;биохимическое потребление кислорода
+954;keemistemperatuur;точка кипения
+959;raamat;книга
+961;raamatupidamine;бухгалтерия
+963;piir;граница
+965;boor;бор
+969;botaanikaaed;ботанический сад
+971;botaanika;ботаника
+976;piirkiht;пограничный слой
+977;veislane;бычий
+984;riimvesi;солоноватая вода
+986;bradüseism;брадисейсмы
+992;rinnapiim;грудное молоко
+994;aretus;разведение растений и животных
+995;pesitsuslind;птица в период размножения
+997;õlletööstus;пивоваренная промышленность
+998;tellis;кирпич

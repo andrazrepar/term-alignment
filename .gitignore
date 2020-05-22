@@ -1,4 +1,13 @@
 # Byte-compiled / optimized / DLL files
+
+datasets/
+gdt/
+giza-pp/
+not_lemmatized/
+results/
+tag-linking/
+venv/
+
 __pycache__/
 *.py[cod]
 *$py.class
