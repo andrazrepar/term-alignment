@@ -360,6 +360,7 @@ def createTrainingAndTestingExamples(df_term_pairs, term_freq_tar, term_freq_src
 
 def filterTrainSet(df, ratio, cognates=False):
     df_pos = df[df['label'] == 1]
+    df_pos.to_csv('test-filtering.csv', index=False, encoding='utf8', sep='\t')
     df_pos_dict = df_pos[df_pos['isFirstWordTranslated'] == 1]
     df_pos_dict = df_pos_dict[df_pos['isLastWordTranslated'] == 1]
     df_pos_dict = df_pos_dict[df_pos['isFirstWordTranslated_reversed'] == 1]
@@ -467,15 +468,23 @@ def createFeatures(data, giza_dict, giza_dict_reversed, train=True, lemmatizatio
     return data
 
 
-def build_manual_eval_set(terms_src, terms_tar):
+def build_manual_eval_set(terms_src, terms_tar, iter_src, iter_tar):
+    # one iteration == 100 source terms * 100 target terms
     all_terms = []
     #print(terms_src, terms_tar)
-    for src_term in terms_src:
-        for tar_term in terms_tar:
+    i = 0
+    for src_term in terms_src[(iter_src-1) * 100:iter_src * 100]:
+        j = 0
+        for tar_term in terms_tar[(iter_tar-1) * 100:iter_tar * 100]:
+            #print(i, j)
+            j = j + 1
             all_terms.append([str(src_term).strip(), str(tar_term).strip()])
+        i = i + 1
     df = pd.DataFrame(all_terms)
-    #print(df.shape)
+    #print(all_terms)
+    print(df.shape)
     df.columns = ['src_term', 'tar_term']
+    
     return df
 
 def filterByWordLength(df):

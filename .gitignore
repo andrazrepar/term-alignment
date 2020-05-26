@@ -8,6 +8,9 @@ results/
 tag-linking/
 venv/
 
+*.p
+*.zip
+
 __pycache__/
 *.py[cod]
 *$py.class

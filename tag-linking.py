@@ -17,6 +17,8 @@ from main import createTrainingAndTestingExamples, longest_common_substring, lon
                  wordLengthMatch, sourceTermLength, targetTermLength, filterByWordLength
 import time
 from sklearn import svm
+import pickle
+import math
 
 
 def isWordCognate(s, idx):
@@ -258,19 +260,20 @@ if __name__ == '__main__':
                 dd = arrangeData('not_lemmatized/en-' + lang + 'Unfiltered.txt')
                 dd_reversed = arrangeData('not_lemmatized/' + lang + '-enUnfiltered.txt')
         elif lang=="et":
-            dd = arrangeData('tag-linking/giza/lex.e2f')  
-            dd_reversed = arrangeData('tag-linking/giza/lex.f2e')
-            #dd = arrangeData('tag-linking/giza/corpus.actual.ti.final')
-            #dd_reversed = arrangeData('tag-linking/giza/corpus-reversed.actual.ti.final')
+            #dd = arrangeData('tag-linking/giza/lex.e2f')
+            
+            #dd_reversed = arrangeData('tag-linking/giza/lex.f2e')
+            dd = arrangeData('tag-linking/giza/corpus-reversed.actual.ti.final') ### mogoče sem narobe obrnil jezike
+            dd_reversed = arrangeData('tag-linking/giza/corpus.actual.ti.final')
         df_terms = pd.read_csv('term_list_' + lang + '.csv', sep=';')
         df_term_freq_tar = set(pd.read_csv('term_giza_only_' + lang + '_' + lang + '.csv')['Term'].tolist())
         df_term_freq_src = set(pd.read_csv('term_giza_only_' + lang + '_en.csv')['Term'].tolist())
         data = createTrainingAndTestingExamples(df_terms, df_term_freq_tar, df_term_freq_src, neg_train_count=trainset_balance, neg_test_count=testset_balance, giza_check=giza_only)
         data_train, data_test = data[0], data[1]
         data_train = createFeatures(data_train, dd, dd_reversed, cognates=cognates)
-        data_train.to_csv('datasets/train_set_et_ru-gemet-cognates.csv', index=False, encoding='utf8', sep='\t')
+        data_train.to_csv('datasets/train_set_et_ru-dataset.csv', index=False, encoding='utf8', sep='\t')
         data_test = createFeatures(data_test, dd, dd_reversed, train=False, cognates=cognates)
-        data_test.to_csv('datasets/test_set_et_ru-gemet-cognates.csv', index=False, encoding='utf8', sep='\t')
+        data_test.to_csv('datasets/test_set_et_ru-dataset.csv', index=False, encoding='utf8', sep='\t')
 
     else:
         if pretrained_dataset == 'aker':
@@ -289,7 +292,7 @@ if __name__ == '__main__':
             data_train = pd.read_csv('datasets/train_set_cognates_' + lang + '.csv')
             data_test = pd.read_csv('datasets/test_set_cognates_' + lang + '.csv')
         elif pretrained_dataset == 'etru':
-            print('yes')
+            print('yes')    
             data_train = pd.read_csv('datasets/train_set_et_ru-gemet-cognates.csv')
             data_test = pd.read_csv('datasets/test_set_cognates_sl.csv') ## začasno
     if filter:
@@ -352,8 +355,13 @@ if __name__ == '__main__':
             dd = arrangeData('not_lemmatized/en-' + lang + 'TransliterationBased.txt')
             dd_reversed = arrangeData('not_lemmatized/' + lang + '-TransliterationBased.txt')
         if lang=="et":
-            dd = arrangeData('tag-linking/giza/lex.e2f')  
-            dd_reversed = arrangeData('tag-linking/giza/lex.f2e')
+            #dd = arrangeData('tag-linking/giza/lex.e2f')  
+            #dd_reversed = arrangeData('tag-linking/giza/lex.f2e')
+            #pickle.dump( dd, open( "dd_save.p", "wb"))
+            #pickle.dump( dd_reversed, open( "dd_reversed_save.p", "wb"))
+            dd = pickle.load( open("dd_save.p", "rb"))
+            dd_reversed = pickle.load( open("dd_reversed_save.p", "rb"))
+            #print('arrangeData', time.clock() - start_time, "seconds")
         else:
             dd = arrangeData('not_lemmatized/en-' + lang + 'TransliterationBased.txt')
             dd_reversed = arrangeData('not_lemmatized/' + lang + '-enTransliterationBased.txt')
@@ -366,21 +374,30 @@ if __name__ == '__main__':
 
         l_src = list(pd.read_csv(predict_source, encoding="utf8", delimiter='\t')['source'].values)
         l_tar = list(pd.read_csv(predict_target, encoding="utf8", delimiter='\t')['target'].values)
+        print('reading done', len(l_src), len(l_tar))
+        
+        ceil_src = math.ceil(len(l_src) / 100)
+        ceil_tar = math.ceil(len(l_tar) / 100)
+        #print('ceil_tar', ceil_tar)
+        for i in range(2, ceil_src + 1):
+            for j in range(1, ceil_tar + 1):
+                data_predict = build_manual_eval_set(l_src, l_tar, i, j)
+                #print('build_manual_eval_set', time.process_time() - start_time, "seconds")
+                data_predict = createFeatures(data_predict, dd, dd_reversed, train=False, cognates=cognates)
+                y_pred = clf.predict(data_predict)
 
-        data_predict = build_manual_eval_set(l_src, l_tar)
-        data_predict = createFeatures(data_predict, dd, dd_reversed, train=False, cognates=cognates)
-        y_pred = clf.predict(data_predict)
-
-        result = pd.concat([data_predict, pd.DataFrame(y_pred, columns=['prediction'])], axis=1)
-        if term_length_filter:
-            result = filterByWordLength(result)
-        result.to_csv("results/all.csv", encoding="utf8", index=False)
-        result = result.loc[result['prediction'] == 1]
-        result = result[['src_term', 'tar_term']]
-        result.to_csv("results/positive.csv", encoding="utf8", index=False)
-
-
-    print(time.clock() - start_time, "seconds")
+                result = pd.concat([data_predict, pd.DataFrame(y_pred, columns=['prediction'])], axis=1)
+                if term_length_filter:
+                    result = filterByWordLength(result)
+                result.to_csv("results/all.csv", mode="a", encoding="utf8", index=False, header=False)
+                result = result.loc[result['prediction'] == 1]
+                result = result[['src_term', 'tar_term']]
+                result.to_csv("results/positive.csv", mode="a", encoding="utf8", index=False, header=False)
+                lg = open('log.txt', 'w')
+                lg.write('source_iter: '+ str(i) + ' --- target_iter:' + str(j))
+                lg.close()
+                print('Source term index:', i*100, '---', 'Target term index:', j*100)
+                #print(time.clock() - start_time, "seconds")
 
 
 

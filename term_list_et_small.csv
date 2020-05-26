@@ -1,0 +1,301 @@
+ID;SRC;TAR
+100;haldusorgan;административный орган
+10002;arvepidamine;бухгалтерский учет
+10003;loomade elu;жизнь животных
+10008;tarbekaubad;потребительский продукт
+1001;sild;мост
+10017;müra mõju tervisele;воздействие шума на здоровье
+10018;inimese keha;человеческое тело
+10019;inimteadus;науки о человеке
+10026;õigustoiming;юридический акт
+10031;meteoroloogiline uurimistöö;метеорологические исследования
+10032;loodusmaistukaitse;охрана природных зон
+10034;loodusohutõrje;снижение природных рисков
+10039;füüsikaline keemia;физическая химия
+10040;reostuse füüsikaline mõõtmine;физическое измерение уровня загрязнения
+10043;taimestik;жизнь растений
+10044;taimesaaduste toodang;заводское производство
+10053;riski ohjamine;управление риском
+10054;ohutussüsteem;система безопасности
+10055;seismotehnika;сейсмоустойчивое строительство
+10057;sotsiaalteadus;общественная наука
+10058;pinnaveemajandus;управление открытыми водоемами
+10064;looduselustiku kaitse;защита дикой природы
+10066;vanalinn;исторический центр
+10068;müüritis;каменная кладка
+1007;broom;бром
+10071;liivaleede;песчаная отмель
+10073;loomaliik;животные виды
+10074;taimeliik;растительные виды
+10076;amet;профессия
+10078;rahvakomme;народная традиция
+10084;õigusharu;отрасль права
+10085;kohtusüsteem;судебная система
+10087;reoainete keemiline määramine;химическое измерение уровня загрязнения
+10088;mõõteriist;измерительный инструмент
+10092;linnamüra;городской шум
+10102;loodusoht;природный риск
+10103;loodusohuanalüüs;анализ природного риска
+10104;suurrisk;высокий уровень риска
+10106;päästesüsteem;система спасения
+10107;kriisijuhtimine;кризисное управление
+10120;maksustamissüsteem;налоговая система
+10126;keskkonnakontseptsioon;экологическая концепция
+10128;metsaökoloogia;экология лесов
+10129;teaduslik ökoloogia;экология как наука
+10130;linnaökoloogia;городская экология
+10131;ökopiirkond;экозона
+10135;paleoökoloogia;палеоэкология
+10136;bioloogiline pärand;биологическое наследие
+1014;haudumine;высиживание яиц
+10142;abajas;пещера
+10143;kanjon;каньон
+10146;amfiteaterorg;цирк
+10149;vallrand;песчаная коса
+1015;oja;ручей
+10152;jõesopp;небольшой залив
+10160;korallrahulaguun;лагуна кораллового рифа
+10161;jõesäng;русло реки
+10166;füüsiline keskkond;физическая среда
+10170;alluviaaltasandik;аллювиальная равнина
+10190;tundlik loodusala;экологически нестабильная природная зона
+10191;keskkonnaanalüüs;экологический анализ
+10194;vesikeskkond;водная среда
+10197;tundlik keskkond;неустойчивая среда
+10198;maismaakeskkond;природная среда суши
+10199;merelooduspark;морской парк
+1020;võsa;кустарниковые заросли
+10200;piirkondlik looduspark;региональный природный парк
+10202;riiklik bioloogiline kaitseala;государственный биологический заповедник
+10203;bioloogiline metsakaitseala;лесной биологический заповедник
+10208;usalduskaitseala;частный природный заповедник
+10210;loodusreservaat;центральная часть природного парка
+10212;merekaitseala;охраняемая морская зона
+10214;kaitseala puhverala;периферийная часть природного заповедника
+10215;teetrasside valik;упорядочение
+10225;prantsuse park;французский сад
+10228;inglise park;английский сад
+10229;terrassaed;террасовый сад
+10233;terrassmaastik;террасированный ландшафт
+10236;mäestikukaitse;охрана гор
+10238;rannikukaitse;охрана прибрежных районов
+1025;eelarve;бюджет
+10251;linnaökoloogia esitlusmudel;графическое изображение городской экологии
+10255;keskkonnahoidlik kodakondsus;экологически ответственная гражданская позиция
+10256;tervikjuhtimine;интегрированный менеджмент
+10260;sponsor;спонсорство
+1029;ehitis;здание
+103;halduspädevus;компетентность административного персонала
+10305;siirdekala;мигрирующая рыба
+1033;tarielement;строительный элемент
+10381;kaslane;кошачьи
+1039;ehitustööstus;строительная индустрия
+1041;ehitusmaa;земля под строительство
+1042;ehitusmaterjal;строительный материал
+10421;mereimetaja;морское млекопитающее
+1044;ehitusmaterjalitööstus;промышленность стройматериалов
+10444;lambad;овечьи
+1046;ehituse planeerimine;планирование строительства
+10496;pesitsusala;район гнездования
+10512;loomade ränne;перемещение животных
+1052;ehitusplats;строительная площадка
+10535;pesitsemine;гнездование
+10539;loomakooslus;популяция животных
+1054;ehitusplatsi ettevalmistamine;подготовка строительной площадки
+10548;loomade paljunemine;репродукция животных
+10554;ellujäämine;выживание
+10568;lehtpuu;широколиственное дерево
+10574;vetikaaas;водоросли
+10575;makrofüüt;макрофит
+1058;ehitustehnoloogia;строительная технология
+10593;kaldataimestik;береговая растительность
+10605;kastan;каштан
+1061;kuivendussüsteem;система дренажа
+10626;taimkatte kõrgusvöönd;зональная растительность
+1063;tehiskeskkond;созданная среда
+1064;ehitis;строение
+10646;sordikollektsioon;коллекция видов
+1065;täisehitatud ala;застроенная территория
+10651;loomakaitseala;заповедник животных
+10652;botaaniline kaitseala;ботанический заповедник
+10666;pärandloomastik;наследие животного мира
+10667;pärandtaimestik;наследие растительного мира
+1067;sibullillekasvatus;культивация луковиц
+10670;loomakaitse;защита животных
+10671;loomaliikide reintroduktsioon;повторное заселение видов животных
+10672;taimeliikide reintroduktsioon;повторное заселение видов растений
+10683;kohalik metsastamine;местное облесение
+10685;tuuleheide;бурелом
+10692;metsakasutus;эксплуатация лесных ресурсов
+10693;mägimets;горный лес
+10695;mediterraanne mets;средиземноморский лес
+10696;eramets;частный лес
+10699;makja;маквис
+107;halduspädevus;административная юрисдикция
+10703;kuivmuru;засушливая земля
+10704;taimla;питомник
+10706;metsakaitse;защита лесов
+10707;looduslik taastumine;естественная регенерация
+10708;vaigutaim;смолосодержащее растение
+10711;keskmets;выращивание подлеска
+10721;mäng;игра
+10744;koorikloomakasvatus;разведение моллюсков
+10753;austrikasvatus;разведение устриц
+10758;töönduspüük;промышленная рыбная ловля
+10760;riiklik kalavesi;национальный рыбный заказник
+10773;võistluseksam;конкурсный отбор
+10778;täiendusõpe;непрерывное образование
+10780;algväljaõpe;начальное образование
+108;haldusõigus;административное право
+1082;buss;автобус
+10833;riigi funktsioon;общественная функция
+10837;töökorraldus;организация работы
+10851;üldkasutatav rajatis;общественное сооружение
+10860;jalgrattatee;велосипедная дорожка
+10861;suusarada;лыжня
+10884;turismimarsruut;туристический маршрут
+10890;keskkonnamuuseum;экомузей
+10892;üldsuse osavõtt;участие общественности
+10893;turistikülastatavus;участие туристов
+10904;üldsus;общественность
+10905;rada;путь
+10906;rannarada;пешеходная тропа вдоль побережья
+10907;haridustee;учебная тропа
+10909;mereäärne suvituskoht;морской курорт
+1091;liblikas;бабочка
+10910;mäestikupuhkeala;горный курорт
+10911;talispordikeskus;лыжный курорт
+10914;turismiühik;туристический объект
+10915;maastur;внедорожник
+10918;asustustihedus;плотность населения
+10919;noor;молодежь
+1092;nööppatarei;элемент питания
+10922;tööjõuline elanikkond;экономически активное население
+10925;ajajaotus;распределение времени
+1093;kaaspüük;сопутствующий улов
+10931;kaubad ja teenused;товары и услуги
+10932;ajabilanss;временной ресурс
+10933;elukeskkond;жизненная среда
+10935;toote olelustsükkel;цикл жизни продукта
+10938;kvaliteedisertifitseerimine;сертификация качества
+10939;elustandard;стандарт жизни
+1094;kõrvalsaadus;сопутствующий продукт
+10940;pakkumine ja nõudmine;спрос и предложение
+10959;ökoloogiline ebavõrdsus;экологическое неравенство
+10960;sotsiaalne ebavõrdsus;социальное неравенство
+10971;sotsiaalpsühholoogia;социальная психология
+10972;sotsiaalne esindatus;социальные ориентиры
+10976;loodushoolivus;любовь к природе
+10977;sotsioökonoomika;социоэкономика
+1098;kaabel;кабель
+10980;juurdepääsuõigus haldusdokumentidele;доступ к административным документам
+10981;haldusakt;действие администрации
+10985;kohalik omavalitsus;правительство территории
+10986;otsustussabi;поддержка процесса принятия решений
+10988;ministri kompetents;компетенция министра
+10991;kodanik;гражданин
+10992;kohalik omavalitsus;местное правительство
+11;abiootiline tegur;абиотический фактор
+1100;kaadmium;кадмий
+11007;haldusmeetmete põhjendamine;мотивы для административных действий
+1101;kaadmiumsaastus;загрязнение кадмием
+11016;majanduskava;экономический план
+1103;tseesium;цезий
+11030;toetusraha;финансовая помощь
+11031;rahvusvaheline abi;международная помощь
+11032;riigi abi;государственная помощь
+11035;analüütiline konto;приложения к бухгалтерскому отчету
+11038;majapidamiskulud;расходы семейного бюджета
+11039;riiklikud kulutused;государственные расходы
+11043;interventsioonifond;фонд непредвиденных расходов
+11045;Euroopa Valuutafond;Европейский валютный фонд
+11046;Rahvusvaheline Valuutafond;Международный валютный фонд
+11050;sisemajanduse kogutoodang;валовый внутренний продукт
+11051;erakordne maks;исключительный налог
+11055;protsessianalüüs;анализ процессов
+11057;audit;аудит
+11061;looduspärandi hindamine;оценка природного наследия
+11063;vee hind;стоимость водоснабжения
+11065;mahekaubandus;экологическая торговля
+11069;isalik juhtimine;популизм
+11082;veehinna määramine;установление цен на воду
+11087;keskkonnateooria;теория окружающей среды
+11089;kaubandustegevus;торговая деятельность
+11095;kohalik areng;развитие регионов
+111;halduskohtumenetlus;административная процедура
+11100;vabakaubandus;свободная торговля
+11103;arengumaa;наименее развитая страна
+1111;kaltsium;кальций
+11116;tihedus;плотность
+11118;ruumiline jaotus;пространственное распределение
+11119;majandusandmed;экономические данные
+1112;kaltsiumisisaldus;содержание кальция
+11124;indeks;перечень
+11125;rahvaloendus;перепись населения
+11127;statistiline rida;статистическая подборка
+11128;arvamusuuring;опрос мнения
+1113;arvutusmeetod;метод калькуляции
+11133;aastajalised muutusfnoored;сезонные изменения
+11134;teadusnõukogu;научный комитет
+11135;teadusvaidlus;научный спор
+1114;kaliibrimine;калибровка
+11146;rakendusuuring;прикладное исследование
+11148;teaduslik uurimistöö;научное исследование
+11152;agronoomia;агрономия
+11153;agroökosüsteem;агросистема
+11159;maaelu arendamine;развитие сельских областей
+11165;hüdromelioratsioon;мелиорация
+11170;talupidamistehnika;сельскохозяйственные методы
+11186;keemiline taimekaitse;обработка сельскохозяйственных культур химикатами
+11187;taimestikpuhastus;фитосанитарная обработка
+11192;linnukasvatus;птицеводство
+11198;aretusmeetod;методы животноводства
+112;haldussanktsioon;административная санкция
+11201;mineraalne;минеральная добавка
+11204;kuivendamine;осушение
+11207;kriit;мел
+11209;lämmastikväetis;азотное удобрение
+1121;telkimine;кемпинг
+11211;fosfaatväetis;фосфорное удобрение
+11212;kaaliumväetis;калийное удобрение
+11214;pinnaspuhastus;естественная очистка почвы
+11224;mulla leostumine;выщелачивание почвы
+11226;mineraalaine;минеральное вещество
+11227;orgaaniline aine;органическое вещество
+1123;laagrikoht;площадка для кемпинга
+11231;kuivendussüsteem;водосборная система
+11232;niisutussüsteem;ирригационная система
+11233;mulla soolsus;соленость почвы
+11237;mäestikumajandus;управление горными районами
+11244;turismikorraldus;управление туристической деятельностью
+11246;metsaettevõte;предприятие лесного хозяйства
+11248;seadmestuskava;план установки оборудования
+11259;lähenemine;подход
+1126;kanal;канал
+11269;raudteejaam;железнодорожная станция
+11270;bussijaam;автобусная остановка
+11272;masinatehas;инженерная работа
+11276;raudteevõrk;сеть железных дорог
+11277;teedevõrk;сеть автомобильных дорог
+11294;kaubalaevandus;торговое мореплавание
+11296;segaveod;комбинированные перевозки
+11307;linnakogukond;городское сообщество
+11308;linnaehitusdokument;документ городского развития
+11309;äärelinn;пригородная территория
+11321;maakasutuskava;план использования земли
+11322;asulate planeerimine ja ehitamine;городское планирование и развитие
+11323;maakasutussuhe;режим использования земли
+1133;vähioht;риск онкологического заболевания
+11332;uus linn;новый город
+1134;koerlane;псовый
+11344;maaarhitektuur;сельская архитектура
+11345;rahvaarhitektuur;традиционная архитектура
+11355;ehitiste lammutamine;снос зданий
+11359;munitsipaaltehnika;строительство городских сооружений
+11375;ehitiste restaureerimine;реконструкция зданий
+11427;õiguslikku tähendust omav avaldus;торжественная клятва
+11429;kvaliteedistandard;стандарт качества
+11430;Euroopa standard;европейский стандарт
+11433;tehnoeeskiri;техническое руководство
+11466;kodeerimine;кодификация
+11468;doktriin;доктрина
