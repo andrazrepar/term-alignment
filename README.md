@@ -4,7 +4,7 @@
 ## Installation, documentation ##
 
 Published results were produced in Python 3 programming environment on Linux Mint 18 Cinnamon operating system. Instructions for installation assume the usage of PyPI package manager.<br/>
-Clone the project from the repository with 'git clone http://source.ijs.si/mmartinc/4real2018.git'<br/>
+Clone the project from the repository.
 Install dependencies if needed: pip3 install -r requirements.txt
 
 ### To reproduce the results published in both papers run the code in the command line using following commands: ###
@@ -100,11 +100,6 @@ python3 no_lemmatization.py --pretrained_dataset cognates --filter_trainset True
 --predict_target : A path to a list of source language terms - one term per line, first line should be "target".
 
 
-## Output predictions ##
-
-Output predictions for each of the above configurations are available at:<br/>
-
-http://kt.ijs.si/matej_martinc/4real_results.zip
 
 
 ## Contributors to the code ##
