@@ -1,8 +1,4 @@
-# Code for experiments conducted in the paper 'Machine Learning Approach to Bilingual Terminology Alignment: Reimplementation and Adaptation' published in 4REAL workshop at LREC 2018 conference and code for experiments conducted in the paper 'Reimplementation, analysis and adaptation of a term-alignment approach', submitted to the Language Resources and Evaluation Journal #
-
-Please cite the following paper [[bib](http://source.ijs.si/mmartinc/4real2018/blob/master/bibtex.js)] if you use this code:
-
-Andraž Repar, Matej Martinc and Senja Pollak. Machine Learning Approach to Bilingual Terminology Alignment: Reimplementation and Adaptation. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). Miyazaki, Japan.
+# Code for experiments conducted in the papers Machine Learning Approach to Bilingual Terminology Alignment: Reimplementation and Adaptation, Reimplementation, analysis and adaptation of a term-alignment approach, Word-embedding based bilingual terminology alignment, Fusion of linguistic, neural and sentence-transformer features for improved term alignment.
 
 
 ## Installation, documentation ##
